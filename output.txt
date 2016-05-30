@@ -2,10 +2,6 @@
 0
 
 time: 00:00:03, clicks: 0, path: 
-39
-0
-
-time: 00:00:03, clicks: 0, path: 
 0
 40
 0
@@ -37416,4 +37412,2079 @@ time: 00:01:42, clicks: 11, path: container(open),food(open),food(selected),food
 1
 A1AOOPKSVTE57Z
 time: 00:01:13, clicks: 10, path: appliance(open),appliance(selected),pot(selected),kitchen_appliance(open),kitchen_appliance(selected),oven(open),oven(selected),range(open),range(selected),mixer(open),mixer(selected),utensil(open),utensil(selected),cookware(open),cookware(selected),pot2(selected),pan(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pan/0008.jpg
+1
+7522
+1
+A216HTSH48JK38
+time: 00:00:25, clicks: 1, path: plate(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0016.jpg
+1
+7523
+1
+A216HTSH48JK38
+time: 00:00:26, clicks: 3, path: pot(selected),container(open),container(selected),jar(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/jar/0012.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/jar/0020.jpg
+1
+7524
+1
+A216HTSH48JK38
+time: 00:00:43, clicks: 9, path: appliance(open),appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),freezer(selected),mixer(open),mixer(selected),oven(open),oven(selected),microwave(selected),stove(selected),appliance(selected),pot(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pot/0019.jpg
+1
+7525
+1
+A216HTSH48JK38
+time: 00:00:49, clicks: 6, path: food(open),food(selected),produce(open),produce(selected),produce(selected),meat(open),meat(selected),poultry(open),poultry(selected),chicken2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0002.jpg
+1
+7526
+2
+AWU1MU9XE3J3W
+time: 00:01:25, clicks: 3, path: object(selected),object(open),drink(selected),ice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/ice/0034.jpg
+1
+7527
+2
+AWU1MU9XE3J3W
+time: 00:00:13, clicks: 1, path: batter(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/batter/0008.jpg
+1
+7528
+4
+A1ITVW9X735K38
+time: 00:00:24, clicks: 3, path: food(open),food(selected),beverage(open),beverage(selected),coffee(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/coffee/0025.jpg
+1
+7529
+1
+AWU1MU9XE3J3W
+time: 00:00:54, clicks: 1, path: food(open),meat(open),meat(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/pork/0030.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pork/0029.jpg
+1
+7530
+2
+A1ITVW9X735K38
+time: 00:00:10, clicks: 1, path: apple(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/apple/0032.jpg
+1
+7531
+1
+A1ITVW9X735K38
+time: 00:00:37, clicks: 3, path: food(open),food(selected),grain(open),grain(selected),rice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/rice/0010.jpg
+1
+7532
+2
+A1CGMQK5DZ6EKP
+time: 00:00:13, clicks: 1, path: milk(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/milk/0032.jpg
+1
+7533
+4
+A1CGMQK5DZ6EKP
+time: 00:01:12, clicks: 9, path: food(open),food(selected),nutriment(open),nutriment(selected),nutriment(selected),foodstuff(open),foodstuff(selected),concoction(open),concoction(selected),flour(selected),grain(open),grain(selected),concoction(open),concoction(selected),baked_goods(open),baked_goods(selected),beverage(open),foodstuff(open),dairy_product(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/jar/0013.jpg
+0
+7534
+2
+
+time: 00:00:14, clicks: 1, path: sugar(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sugar/0035.jpg
+1
+7535
+1
+A1CGMQK5DZ6EKP
+time: 00:00:10, clicks: 2, path: container(open),container(selected),bowl(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0050.jpg
+1
+7536
+2
+
+time: 00:00:17, clicks: 1, path: rice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/rice/0027.jpg
+1
+7537
+2
+AR9I6WY6LHKZP
+time: 00:00:19, clicks: 1, path: milk(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/milk/0018.jpg
+1
+7538
+4
+A1CGMQK5DZ6EKP
+time: 00:00:32, clicks: 7, path: food(open),food(selected),foodstuff(open),foodstuff(selected),baked_goods(open),baked_goods(selected),baked_goods(selected),foodstuff(open),foodstuff(selected),grain(open),grain(selected),rice(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/rice/0039.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/rice/0036.jpg
+1
+7539
+4
+AR9I6WY6LHKZP
+time: 00:00:09, clicks: 1, path: food(open),baked_goods(open),pie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pie/0042.jpg
+1
+7540
+1
+
+time: 00:00:30, clicks: 5, path: food(open),food(selected),dough(open),dough(selected),dough(selected),grain(open),grain(selected),bread(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bread/0006.jpg
+1
+7541
+4
+A1CGMQK5DZ6EKP
+time: 00:00:21, clicks: 3, path: food(open),food(selected),baked_goods(open),pie(selected),cookie(selected),foodstuff(open),dairy_product(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chocolate/0027.jpg
+0
+7542
+4
+A1CGMQK5DZ6EKP
+time: undefined, clicks: 0, path: target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chocolate/0005.jpg
+0
+7543
+1
+AR9I6WY6LHKZP
+time: 00:00:26, clicks: 2, path: food(open),food(selected),produce(open),fruit(open),apple(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/apple/0046.jpg
+1
+7544
+2
+
+time: 00:00:24, clicks: 1, path: meat(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/meat/0030.jpg
+1
+7545
+2
+A1CGMQK5DZ6EKP
+time: 00:00:23, clicks: 1, path: dessert(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dessert/0015.jpg
+1
+7546
+3
+AR9I6WY6LHKZP
+time: 00:00:11, clicks: 1, path: food(open),sauce(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0014.jpg
+1
+7547
+1
+A1CF6U3GF7DZEJ
+time: 00:00:32, clicks: 2, path: food(open),food(selected),produce(open),vegetable(open),onion(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/onion/0041.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/onion/0011.jpg
+1
+7548
+3
+
+time: 00:00:46, clicks: 11, path: food(open),food(selected),sauce(selected),batter(open),batter(selected),sweets(open),sweets(selected),sweets(selected),seasoning(open),seasoning(selected),seasoning(selected),produce(open),produce(selected),vegetable(open),vegetable(selected),vegetable(selected),soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0037.jpg
+1
+7549
+3
+A1CF6U3GF7DZEJ
+time: 00:00:26, clicks: 4, path: food(open),food(selected),dairy(open),dairy(selected),food(open),food(selected),egg(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/egg/0032.jpg
+1
+7550
+4
+A2LUKLI8NAQHO0
+time: 00:01:50, clicks: 6, path: food(open),food(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),cup(selected),alcohol(open),whole(open),whole(selected),food(open),food(open),food(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/water/0019.jpg
+0
+7551
+2
+
+time: 00:00:09, clicks: 1, path: beer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0037.jpg
+1
+7552
+4
+A1CF6U3GF7DZEJ
+time: 00:00:26, clicks: 3, path: food(open),food(selected),baked_goods(open),baked_goods(selected),bread(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bread/0007.jpg
+1
+7553
+1
+A2LUKLI8NAQHO0
+time: 00:00:32, clicks: 2, path: food(open),food(selected),food(open),pizza(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pizza/0031.jpg
+1
+7554
+2
+A1CF6U3GF7DZEJ
+time: 00:00:46, clicks: 2, path: object(open),object(selected),cake(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cake/0035.jpg
+1
+7555
+4
+A2LUKLI8NAQHO0
+time: 00:00:19, clicks: 2, path: whole(open),food(open),beverage(open),cocoa(selected),coffee(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/coffee/0041.jpg
+1
+7556
+2
+A2LUKLI8NAQHO0
+time: 00:00:23, clicks: 2, path: garlic(selected),onion(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/onion/0016.jpg
+1
+7557
+4
+A1CF6U3GF7DZEJ
+time: 00:01:10, clicks: 8, path: food(open),foodstuff(open),food(selected),food(open),object(selected),object(open),whole(open),whole(selected),fruit(open),fruit(selected),apple(selected),food(open),food(selected),nutriment(open),nutriment(selected),food(selected),food(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/food/0009.jpg
+0
+7558
+2
+A2LUKLI8NAQHO0
+time: 00:00:41, clicks: 2, path: bottle(selected),soda(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soda/0006.jpg
+1
+7559
+2
+A1CF6U3GF7DZEJ
+time: 00:00:47, clicks: 2, path: water(selected),ice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/ice/0027.jpg
+1
+7560
+2
+A2LUKLI8NAQHO0
+time: 00:00:22, clicks: 2, path: candy(selected),chocolate(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chocolate/0043.jpg
+1
+7561
+4
+A1CF6U3GF7DZEJ
+time: 00:00:31, clicks: 11, path: object(open),object(selected),food(open),food(selected),object(open),object(selected),whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),implement(open),implement(selected),kitchen_utensil(open),kitchen_utensil(selected),implement(selected),implement(open),implement(selected),tool(open),tool(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/spoon/0021.jpg
+0
+7562
+3
+A1CF6U3GF7DZEJ
+time: 00:01:29, clicks: 4, path: object(selected),object(open),object(selected),food(open),drink(open),beverage(open),water(selected),soda(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soda/0015.jpg
+1
+7563
+4
+ANQDPYEA5QQI2
+time: 00:00:17, clicks: 5, path: food(open),food(selected),meat(open),meat(selected),pork(selected),cut(open),cut(selected),fish(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fish/0003.jpg
+1
+7564
+1
+ANQDPYEA5QQI2
+time: 00:00:30, clicks: 5, path: food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),dairy(open),dairy(selected),milk(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/milk/0007.jpg
+1
+7565
+3
+A1CF6U3GF7DZEJ
+time: 00:01:16, clicks: 6, path: food(open),sweets(open),sugar(open),sugar(selected),syrup(selected),food(open),food(selected),seasoning(open),seasoning(selected),salt(selected),sweets(open),sugar(open),sugar(selected),sugar(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sugar/0018.jpg
+1
+7566
+2
+ANQDPYEA5QQI2
+time: 00:00:38, clicks: 2, path: beef(selected),meat(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/meat/0007.jpg
+1
+7567
+4
+A1CF6U3GF7DZEJ
+time: 00:00:26, clicks: 2, path: food(open),food(selected),fish(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fish/0024.jpg
+1
+7568
+4
+ANQDPYEA5QQI2
+time: 00:00:09, clicks: 3, path: food(open),food(selected),baked_goods(open),baked_goods(selected),bread(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bread/0007.jpg
+1
+7569
+4
+ANQDPYEA5QQI2
+time: 00:01:56, clicks: 24, path: food(open),food(selected),foodstuff(open),foodstuff(selected),nutriment(open),nutriment(selected),course(open),course(selected),dessert(open),dessert(selected),dessert(selected),plate(selected),plate(selected),course(selected),nutriment(selected),foodstuff(open),foodstuff(selected),concoction(open),concoction(selected),concoction(selected),juice(selected),juice(selected),flour(selected),flavorer(open),flavorer(selected),flavorer(selected),food(open),food(selected),foodstuff(open),foodstuff(selected),whole(open),whole(selected),fruit(open),fruit(selected),citrus(open),citrus(selected),fruit(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fruit/0041.jpg
+1
+7570
+3
+ANQDPYEA5QQI2
+time: 00:01:17, clicks: 7, path: food(open),food(selected),seasoning(open),seasoning(selected),spice(open),spice(selected),spice(selected),spice(open),spice(selected),garlic(selected),garlic(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/garlic/0008.jpg
+1
+7571
+2
+A3LRA3VEPV70J5
+time: 00:00:13, clicks: 1, path: onion(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/onion/0035.jpg
+1
+7572
+2
+
+time: 00:01:57, clicks: 16, path: wine(selected),syrup(selected),soda(selected),juice(selected),jar(selected),flour(selected),dough(selected),object(open),apple(selected),batter(selected),beef(selected),blender(selected),bowl(selected),candy(selected),drink(selected),freezer(selected),ice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/syrup/0024.jpg
+0
+7573
+4
+A3LRA3VEPV70J5
+time: 00:00:54, clicks: 1, path: food(open),foodstuff(open),nutriment(open),candy(selected),course(open),dessert(open),dish(open),whole(open),fruit(open),food(open),baked_goods(open),beverage(open),foodstuff(open),flavorer(open),sweetening(open),grain(open),meat(open),nutriment(open),course(open),dessert(open),dish(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chocolate/0002.jpg
+0
+7574
+1
+A3LRA3VEPV70J5
+time: 00:00:18, clicks: 1, path: food(open),drink(open),beverage(open),juice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/juice/0013.jpg
+1
+7575
+3
+
+time: 00:01:20, clicks: 24, path: food(open),food(open),batter(open),batter(selected),utensil(open),utensil(selected),silverware(open),silverware(selected),cookware(open),cookware(selected),silverware(open),silverware(selected),appliance(open),kitchen_appliance(open),kitchen_appliance(selected),mixer(open),mixer(selected),blender(selected),freezer(selected),oven(open),oven(selected),container(open),bowl(selected),bottle(selected),cup(selected),food(open),dairy(open),dairy(selected),batter(open),batter(selected),produce(open),produce(selected),egg(selected),seasoning(open),seasoning(selected),sweets(open),sweets(selected),meat(open),meat(selected),batter(open),batter(selected),dairy(open),dairy(selected),food(selected),plate(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/batter/0019.jpg
+0
+7576
+4
+A3LRA3VEPV70J5
+time: 00:00:10, clicks: 1, path: food(open),foodstuff(open),grain(open),rice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/rice/0011.jpg
+1
+7577
+1
+ANQDPYEA5QQI2
+time: 00:01:46, clicks: 10, path: utensil(open),utensil(selected),cookware(open),cookware(selected),pot2(selected),pan(selected),pot(selected),pan(selected),pot2(selected),utensil(selected),container(open),container(selected),bowl(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0047.jpg
+1
+7578
+3
+
+time: 00:00:13, clicks: 3, path: food(open),food(selected),dairy(open),dairy(selected),cheese(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0006.jpg
+1
+7579
+1
+ANQDPYEA5QQI2
+time: 00:00:22, clicks: 8, path: utensil(open),utensil(selected),container(open),container(selected),utensil(open),utensil(selected),cookware(open),cookware(selected),cookware(selected),pot(selected),utensil(selected),plate(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0002.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0003.jpg
+1
+7580
+3
+
+time: 00:00:36, clicks: 4, path: food(open),food(selected),sauce(selected),sweets(open),sweets(selected),honey(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/honey/0025.jpg
+1
+7581
+2
+
+time: 00:00:18, clicks: 1, path: knife(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0031.jpg
+1
+7582
+2
+A1EJXHR7Y035Z0
+time: 00:00:11, clicks: 1, path: fork(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0015.jpg
+1
+7583
+3
+A3LRA3VEPV70J5
+time: 00:00:16, clicks: 1, path: appliance(open),kitchen_appliance(open),mixer(open),blender(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/blender/0044.jpg
+1
+7584
+1
+A3LRA3VEPV70J5
+time: 00:00:07, clicks: 1, path: food(open),meat(open),poultry(open),chicken2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0041.jpg
+1
+7585
+4
+A3LRA3VEPV70J5
+time: 00:00:07, clicks: 1, path: food(open),meat(open),chicken(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0011.jpg
+1
+7586
+1
+A1EJXHR7Y035Z0
+time: 00:01:15, clicks: 11, path: appliance(open),appliance(selected),object(selected),object(open),object(selected),appliance(open),appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),container(open),container(selected),food(open),food(selected),container(open),container(selected),utensil(open),utensil(selected),appliance(open),appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/grill/0021.jpg
+0
+7587
+4
+A3LRA3VEPV70J5
+time: 00:00:11, clicks: 1, path: food(open),nutriment(open),foodstuff(open),egg(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/egg/0019.jpg
+1
+7588
+1
+A1EJXHR7Y035Z0
+time: 00:00:26, clicks: 3, path: food(open),food(selected),produce(open),produce(selected),vegetable(open),vegetable(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vegetable/0002.jpg
+1
+7589
+4
+A1EJXHR7Y035Z0
+time: 00:00:48, clicks: 7, path: food(open),food(selected),water(selected),whole(open),whole(selected),artifact(open),artifact(selected),fruit(open),fruit(selected),food(open),food(selected),water(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0023.jpg
+0
+7590
+1
+
+time: 00:00:14, clicks: 3, path: food(open),food(selected),food(open),drink(open),beverage(open),beverage(selected),soda(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soda/0034.jpg
+1
+7591
+1
+A1DAC6HSW711N0
+time: 00:00:16, clicks: 1, path: utensil(open),cookware(open),food(open),dough(open),batter2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/batter/0035.jpg
+1
+7592
+4
+A1EJXHR7Y035Z0
+time: 00:01:17, clicks: 9, path: food(open),food(selected),whole(open),whole(selected),food(open),food(selected),foodstuff(open),foodstuff(selected),dairy_product(open),dairy_product(selected),concoction(open),concoction(selected),batter(selected),dairy_product(open),dairy_product(selected),flavorer(open),flavorer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dessert/0051.jpg
+0
+7593
+4
+A1EJXHR7Y035Z0
+time: 00:00:20, clicks: 3, path: food(open),food(selected),meat(open),meat(selected),chicken(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0045.jpg
+1
+7594
+2
+A1DAC6HSW711N0
+time: 00:00:59, clicks: 6, path: lemon(selected),meat(selected),bacon(selected),beef(selected),chicken(selected),fish(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fish/0003.jpg
+1
+7595
+4
+A1DAC6HSW711N0
+time: 00:02:01, clicks: 13, path: food(open),beverage(open),water(selected),whole(open),artifact(open),food(open),beverage(open),beverage(open),alcohol(open),pop(selected),alcohol(open),foodstuff(open),juice(selected),nutriment(open),nutriment(selected),water(selected),beverage(open),beverage(selected),water(selected),whole(open),fruit(open),artifact(open),home_appliance(open),home_appliance(selected),instrumentality(open),instrumentality(selected),container(open),container(selected),vessel(open),vessel(selected),bowl(selected),bottle(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bottle/0013.jpg
+1
+7596
+2
+
+time: 00:00:14, clicks: 7, path: apple(selected),beef(selected),blender(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/blender/0038.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/blender/0045.jpg,banana(selected),beef(selected),chocolate(selected),fish(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/honey/0035.jpg
+0
+7597
+1
+A24H4D0R8B7LBM
+time: 00:00:16, clicks: 1, path: food(open),produce(open),produce(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/banana/0040.jpg
+1
+7598
+2
+A24H4D0R8B7LBM
+time: 00:00:07, clicks: 1, path: chocolate(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chocolate/0027.jpg
+1
+7599
+2
+
+time: 00:00:36, clicks: 2, path: blender(selected),blender(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bottle/0043.jpg
+0
+7600
+4
+A24H4D0R8B7LBM
+time: 00:01:44, clicks: 4, path: food(open),foodstuff(open),nutriment(open),course(open),foodstuff(open),concoction(open),concoction(selected),dairy_product(open),meat(open),meat(selected),beverage(open),whole(open),whole(selected),food(open),food(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0020.jpg
+1
+7601
+2
+A24H4D0R8B7LBM
+time: 00:00:09, clicks: 1, path: chicken(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0007.jpg
+1
+7602
+4
+A24H4D0R8B7LBM
+time: 00:00:33, clicks: 1, path: food(open),beverage(open),tea(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/tea/0044.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/tea/0044.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/tea/0044.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/tea/0008.jpg
+1
+7603
+1
+A24H4D0R8B7LBM
+time: 00:00:20, clicks: 3, path: pot(selected),utensil(open),cookware(open),pot2(selected),pan(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pan/0030.jpg
+1
+7604
+3
+A3GTIIFSMHAKRZ
+time: 00:00:36, clicks: 2, path: food(open),meat(open),beef(open),beef(selected),poultry(open),poultry(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0015.jpg
+1
+7605
+2
+A24H4D0R8B7LBM
+time: 00:00:07, clicks: 1, path: coffee(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/coffee/0010.jpg
+1
+7606
+1
+A24H4D0R8B7LBM
+time: 00:00:21, clicks: 2, path: food(open),sweets(open),honey2(selected),sugar(open),sugar(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/syrup/0009.jpg
+1
+7607
+1
+A3H67KSN47B6OV
+time: 00:00:28, clicks: 3, path: appliance(open),appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),microwave(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0043.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0004.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0004.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0003.jpg
+1
+7608
+1
+A2C2WXXKJOLCZ2
+time: 00:00:19, clicks: 4, path: utensil(open),utensil(selected),silverware(open),silverware(selected),cutlery(open),cutlery(selected),spoon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/spoon/0026.jpg
+1
+7609
+3
+A3H67KSN47B6OV
+time: 00:00:51, clicks: 11, path: appliance(open),appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),oven(open),oven(selected),range(open),range(selected),stove(selected),utensil(open),utensil(selected),cookware(open),cookware(selected),appliance(open),appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),oven(open),oven(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/grill/0023.jpg
+0
+7610
+4
+A3H67KSN47B6OV
+time: 00:00:45, clicks: 6, path: food(open),food(selected),foodstuff(open),foodstuff(selected),whole(open),whole(selected),fruit(open),fruit(selected),citrus(open),citrus(selected),fruit(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fruit/0024.jpg
+1
+7611
+3
+A3H67KSN47B6OV
+time: 00:00:10, clicks: 3, path: utensil(open),utensil(selected),cookware(open),cookware(selected),pot(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pot/0013.jpg
+1
+7612
+1
+A3F128VOB46KDM
+time: 00:02:03, clicks: 6, path: container(open),container(selected),cup(selected),food(open),food(selected),drink(open),drink(selected),egg(selected),beverage(open),beverage(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/coffee/0010.jpg
+1
+7613
+2
+A2C2WXXKJOLCZ2
+time: 00:01:26, clicks: 12, path: pot(selected),pot(selected),pot(selected),pot(selected),pot(selected),pot(selected),pot(selected),pot(selected),pot(selected),pot(selected),bowl(selected),bowl(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0013.jpg
+1
+7614
+1
+ARA1SVR85THFP
+time: 00:00:22, clicks: 1, path: food(open),produce(open),fruit(open),apple(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/apple/0013.jpg
+1
+7615
+2
+A21JUE8ZZI6OI1
+time: 00:00:45, clicks: 1, path: beer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0020.jpg
+1
+7616
+4
+A2C2WXXKJOLCZ2
+time: 00:00:41, clicks: 4, path: object(selected),object(open),object(selected),whole(open),whole(selected),object(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/stove/0028.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/stove/0004.jpg
+1
+7617
+2
+ARA1SVR85THFP
+time: 00:00:27, clicks: 2, path: object(open),plate(selected),salad(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/salad/0006.jpg
+1
+7618
+4
+ARA1SVR85THFP
+time: 00:00:25, clicks: 2, path: whole(open),artifact(open),grill(selected),home_appliance(open),home_appliance(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/stove/0012.jpg
+1
+7619
+3
+A3F128VOB46KDM
+time: 00:01:33, clicks: 9, path: object(selected),object(open),object(selected),food(open),food(selected),food(open),sweets(open),sweets(selected),sugar(open),sugar(selected),sweets(selected),sweets(open),sweets(selected),dessert(open),dessert(selected),candy(open),candy(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/candy/0013.jpg
+1
+7620
+2
+ARA1SVR85THFP
+time: 00:00:12, clicks: 1, path: drink(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0003.jpg
+1
+7621
+4
+ARA1SVR85THFP
+time: 00:00:29, clicks: 3, path: whole(open),artifact(open),home_appliance(open),kitchen_appliance(open),instrumentality(open),implement(open),implement(selected),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),tool(open),fork(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0028.jpg
+1
+7622
+1
+ARA1SVR85THFP
+time: 00:00:16, clicks: 1, path: food(open),produce(open),fruit(open),apple(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/apple/0025.jpg
+1
+7623
+4
+A3F128VOB46KDM
+time: 00:01:16, clicks: 7, path: food(open),food(selected),foodstuff(open),foodstuff(selected),nutriment(open),nutriment(selected),foodstuff(open),foodstuff(selected),whole(open),whole(selected),fruit(open),fruit(selected),citrus(open),citrus(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/orange/0035.jpg
+1
+7624
+3
+ARA1SVR85THFP
+time: 00:00:30, clicks: 1, path: food(open),seasoning(open),produce(open),seasoning(open),spice(open),garlic(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/garlic/0004.jpg
+1
+7625
+1
+ARA1SVR85THFP
+time: 00:00:46, clicks: 4, path: food(open),dough(open),batter2(selected),flour2(selected),food(open),dough(open),batter2(selected),batter(open),batter(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dough/0034.jpg
+1
+7626
+4
+ARA1SVR85THFP
+time: 00:00:10, clicks: 2, path: whole(open),artifact(open),home_appliance(open),kitchen_appliance(open),kitchen_appliance(selected),microwave(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0003.jpg
+1
+7627
+3
+
+time: 00:00:54, clicks: 5, path: food(open),food(selected),produce(open),produce(selected),fruit(open),fruit(selected),citrus(open),citrus(selected),lemon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/lemon/0025.jpg
+1
+7628
+3
+A3F128VOB46KDM
+time: 00:00:38, clicks: 2, path: food(open),food(selected),produce(open),produce(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/banana/0048.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/banana/0002.jpg
+1
+7629
+2
+A3UY0JFOTIL593
+time: 00:01:33, clicks: 2, path: food(selected),soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0014.jpg
+1
+7630
+1
+A3F128VOB46KDM
+time: 00:00:15, clicks: 1, path: pot(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pot/0023.jpg
+1
+7631
+2
+
+time: 00:00:44, clicks: 1, path: garlic(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/garlic/0043.jpg
+1
+7632
+3
+A2TCWEYMI1JHIG
+time: 00:00:23, clicks: 1, path: food(open),seasoning(open),sweets(open),sugar(open),sugar(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sugar/0034.jpg
+1
+7633
+1
+A2TCWEYMI1JHIG
+time: 00:00:37, clicks: 1, path: food(open),sweets(open),dessert(open),chocolate(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chocolate/0039.jpg
+1
+7634
+3
+
+time: 00:00:23, clicks: 3, path: container(open),container(selected),cup(selected),bottle(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bottle/0007.jpg
+1
+7635
+4
+A2TCWEYMI1JHIG
+time: 00:00:18, clicks: 1, path: food(open),beverage(open),water(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/water/0036.jpg
+1
+7636
+4
+A3F128VOB46KDM
+time: 00:03:23, clicks: 10, path: food(open),food(selected),foodstuff(open),foodstuff(selected),nutriment(open),nutriment(selected),food(selected),whole(open),whole(selected),fruit(open),fruit(selected),food(open),food(selected),foodstuff(open),foodstuff(selected),grain(open),grain(selected),corn(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/corn/0054.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/corn/0042.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/corn/0042.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/corn/0046.jpg
+1
+7637
+1
+A3F128VOB46KDM
+time: 00:00:12, clicks: 2, path: food(open),food(selected),dough(open),dough(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dough/0007.jpg
+1
+7638
+1
+A1DB6R11MP72LQ
+time: 00:00:37, clicks: 4, path: food(open),food(selected),dough(open),dough(selected),batter2(selected),grain(open),bread(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bread/0008.jpg
+1
+7639
+4
+A3F128VOB46KDM
+time: 00:00:11, clicks: 2, path: food(open),food(selected),onion(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/onion/0047.jpg
+1
+7640
+2
+A1DB6R11MP72LQ
+time: 00:00:14, clicks: 1, path: pepper(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pepper/0010.jpg
+1
+7641
+3
+A2TCWEYMI1JHIG
+time: 00:00:26, clicks: 1, path: food(open),sweets(open),honey(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/honey/0005.jpg
+1
+7642
+1
+A2TCWEYMI1JHIG
+time: 00:00:25, clicks: 4, path: utensil(open),cookware(open),cookware(selected),silverware(open),silverware(selected),cutlery(open),cutlery(selected),knife(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0026.jpg
+1
+7643
+4
+A2TCWEYMI1JHIG
+time: 00:00:49, clicks: 10, path: whole(open),food(open),whole(open),artifact(open),artifact(selected),home_appliance(open),home_appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),stove(selected),oven(selected),instrumentality(open),instrumentality(selected),implement(open),implement(selected),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),cooking_utensil(selected),tool(open),tool(selected),kitchen_utensil(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pan/0004.jpg
+0
+7644
+2
+A3F128VOB46KDM
+time: 00:01:17, clicks: 5, path: fruit(selected),fruit(selected),object(selected),object(open),object(selected),orange(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/orange/0035.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/orange/0009.jpg
+1
+7645
+4
+A2TCWEYMI1JHIG
+time: 00:00:13, clicks: 3, path: whole(open),artifact(open),home_appliance(open),home_appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),microwave(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0031.jpg
+1
+7646
+4
+A1DB6R11MP72LQ
+time: 00:02:10, clicks: 16, path: object(open),food(open),whole(open),artifact(open),home_appliance(open),kitchen_appliance(open),instrumentality(open),container(open),container(selected),vessel(open),implement(open),home_appliance(open),home_appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),instrumentality(open),implement(open),implement(selected),implement(selected),container(open),container(selected),vessel(open),vessel(selected),bowl(selected),food(open),beverage(open),coffee(selected),cocoa(selected),milk(selected),coffee(selected),tea(selected),pop(selected),alcohol(open),alcohol(selected),cup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cup/0015.jpg
+1
+7647
+1
+A2TCWEYMI1JHIG
+time: 00:00:58, clicks: 4, path: food(open),grill2(selected),meat(open),meat(selected),beef(open),beef(selected),steak(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beef/0011.jpg
+0
+7648
+1
+A3F128VOB46KDM
+time: 00:00:40, clicks: 1, path: utensil(open),utensil(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0022.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0025.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0025.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0037.jpg
+1
+7649
+4
+A2TCWEYMI1JHIG
+time: 00:00:22, clicks: 4, path: whole(open),artifact(open),instrumentality(open),implement(open),implement(selected),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),cooking_utensil(selected),pot(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pot/0012.jpg
+1
+7650
+3
+A3F128VOB46KDM
+time: 00:00:10, clicks: 2, path: container(open),container(selected),jar(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/jar/0041.jpg
+1
+7651
+2
+A2TCWEYMI1JHIG
+time: 00:00:24, clicks: 1, path: juice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/juice/0021.jpg
+1
+7652
+1
+A2TCWEYMI1JHIG
+time: undefined, clicks: 0, path: target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/coffee/0019.jpg
+0
+7653
+1
+A2TCWEYMI1JHIG
+time: 00:00:22, clicks: 3, path: food(open),drink(open),drink(selected),beverage(open),beverage(selected),water(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/water/0038.jpg
+1
+7654
+4
+A3F128VOB46KDM
+time: 00:01:14, clicks: 10, path: food(open),food(selected),foodstuff(open),foodstuff(selected),food(selected),whole(open),whole(selected),fruit(open),fruit(selected),food(open),food(selected),nutriment(open),nutriment(selected),foodstuff(open),foodstuff(selected),flavorer(open),flavorer(selected),pepper(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pepper/0002.jpg
+1
+7655
+1
+
+time: 00:00:29, clicks: 3, path: food(open),food(selected),seasoning(open),seasoning(selected),salt(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/salt/0014.jpg
+1
+7656
+2
+A3F128VOB46KDM
+time: 00:00:19, clicks: 1, path: cookie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cookie/0032.jpg
+1
+7657
+1
+
+time: 00:00:12, clicks: 2, path: food(open),dairy(open),dairy(selected),milk(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/milk/0006.jpg
+1
+7658
+1
+A8FXTNA9TWP3C
+time: 00:00:27, clicks: 5, path: food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),beer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0042.jpg
+1
+7659
+4
+A3F128VOB46KDM
+time: 00:01:27, clicks: 14, path: whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),implement(open),implement(selected),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),cooking_utensil(selected),tool(open),tool(selected),object(selected),object(open),object(selected),whole(open),whole(selected),artifact(open),artifact(selected),home_appliance(open),home_appliance(selected),home_appliance(selected),instrumentality(open),instrumentality(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/spoon/0003.jpg
+1
+7660
+4
+A1QYRW79TX0WOL
+time: 00:02:42, clicks: 15, path: food(open),whole(open),food(open),foodstuff(open),foodstuff(selected),food(open),baked_goods(open),baked_goods(selected),beverage(open),beverage(selected),foodstuff(open),foodstuff(selected),meat(open),meat(selected),nutriment(open),nutriment(selected),onion(selected),water(selected),onion(selected),object(open),food(open),food(selected),baked_goods(open),baked_goods(selected),beverage(open),beverage(selected),foodstuff(open),foodstuff(selected),flavorer(open),flavorer(selected),flavorer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/spoon/0039.jpg
+0
+7661
+2
+A2TCWEYMI1JHIG
+time: 00:00:21, clicks: 1, path: microwave(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0003.jpg
+1
+7662
+1
+A1HKYY6XI2OHO1
+time: 00:04:20, clicks: 11, path: container(open),bottle(selected),food(open),drink(open),beverage(open),tea(selected),juice(selected),smoothie(open),juice2(selected),soda(selected),tea(selected),alcohol(open),beer(selected),juice(selected),soda(selected),beverage(selected),sweets(open),container(open),container(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/syrup/0021.jpg
+0
+7663
+4
+A1HKYY6XI2OHO1
+time: 00:00:17, clicks: 2, path: whole(open),food(open),food(selected),whole(open),artifact(open),instrumentality(open),container(open),vessel(open),bottle(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bottle/0036.jpg
+1
+7664
+4
+A1QYRW79TX0WOL
+time: 00:00:38, clicks: 5, path: food(open),food(selected),meat(open),meat(selected),beef(selected),cut(open),cut(selected),steak(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/steak/0011.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/steak/0017.jpg
+1
+7665
+2
+A8FXTNA9TWP3C
+time: 00:02:10, clicks: 4, path: object(selected),object(open),object(selected),cup(selected),drink(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0032.jpg
+0
+7666
+3
+A1HKYY6XI2OHO1
+time: 00:00:21, clicks: 1, path: food(open),sweets(open),sugar(open),sugar(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/sugar/0026.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sugar/0020.jpg
+1
+7667
+3
+A1QYRW79TX0WOL
+time: 00:00:14, clicks: 3, path: food(open),food(selected),grain(open),grain(selected),corn(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/corn/0045.jpg
+1
+7668
+1
+A2TCWEYMI1JHIG
+time: 00:01:07, clicks: 3, path: appliance(open),kitchen_appliance(open),kitchen_appliance(selected),stove(selected),oven(open),oven(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/oven/0036.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/oven/0036.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/oven/0012.jpg
+0
+7669
+1
+A1HKYY6XI2OHO1
+time: 00:00:23, clicks: 3, path: appliance(open),kitchen_appliance(open),oven(open),range(open),stove2(selected),pot(selected),utensil(open),cookware(open),pan(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pan/0010.jpg
+1
+7670
+3
+A3T5E7K68QRMKC
+time: 00:00:33, clicks: 1, path: food(open),dairy(open),batter(open),sweets(open),dessert(open),pie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pie/0015.jpg
+1
+7671
+4
+A2TCWEYMI1JHIG
+time: 00:00:24, clicks: 7, path: food(open),whole(open),whole(selected),artifact(open),artifact(selected),object(selected),object(open),object(selected),food(open),food(selected),baked_goods(open),baked_goods(selected),foodstuff(open),foodstuff(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sugar/0006.jpg
+0
+7672
+4
+A2TCWEYMI1JHIG
+time: 00:00:20, clicks: 5, path: whole(open),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),implement(open),implement(selected),tool(open),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),cooking_utensil(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/spoon/0015.jpg
+0
+7673
+1
+A3F128VOB46KDM
+time: 00:02:54, clicks: 15, path: container(open),container(selected),bottle(selected),jar(selected),cup(selected),bowl(selected),bottle(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/bottle/0007.jpg,object(selected),object(open),object(selected),container(open),container(selected),blender(selected),bottle(selected),container(selected),utensil(open),utensil(selected),silverware(open),silverware(selected),cookware(open),cookware(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0015.jpg
+0
+7674
+2
+A8FXTNA9TWP3C
+time: 00:01:26, clicks: 8, path: cup(selected),fruit(selected),juice(selected),vegetable(selected),juice(selected),fruit(selected),food(selected),drink(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0046.jpg
+1
+7675
+1
+A3T5E7K68QRMKC
+time: 00:00:15, clicks: 1, path: food(open),flour2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/flour/0014.jpg
+1
+7676
+1
+A2TCWEYMI1JHIG
+time: 00:00:30, clicks: 5, path: food(open),food(selected),produce(open),produce(selected),fruit(open),fruit(selected),citrus(open),citrus(selected),orange(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/orange/0015.jpg
+0
+7677
+1
+A2TCWEYMI1JHIG
+time: 00:00:19, clicks: 1, path: food(open),soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0012.jpg
+1
+7678
+4
+A8FXTNA9TWP3C
+time: 00:00:27, clicks: 7, path: food(open),food(selected),nutriment(open),nutriment(selected),nutriment(selected),foodstuff(open),foodstuff(selected),whole(open),whole(selected),fruit(open),fruit(selected),apple(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/apple/0017.jpg
+1
+7679
+4
+A3T5E7K68QRMKC
+time: 00:00:21, clicks: 1, path: whole(open),food(open),food(open),food(open),whole(open),food(open),beverage(open),beverage(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cup/0039.jpg
+0
+7680
+4
+A2TCWEYMI1JHIG
+time: 00:00:18, clicks: 3, path: food(open),beverage(open),beverage(selected),alcohol(open),alcohol(selected),beer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0009.jpg
+1
+7681
+4
+A2TCWEYMI1JHIG
+time: 00:00:14, clicks: 3, path: food(open),food(selected),meat(open),meat(selected),chicken(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0012.jpg
+1
+7682
+2
+A2TCWEYMI1JHIG
+time: 00:00:16, clicks: 1, path: cheese(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0043.jpg
+1
+7683
+1
+A1QYRW79TX0WOL
+time: 00:03:50, clicks: 21, path: food(open),food(selected),sweets(open),sweets(selected),dessert(open),dessert(selected),cake(selected),chocolate(selected),cake(selected),pie(selected),cake(selected),dough(open),batter2(selected),dairy(open),batter(open),meat(open),sweets(open),dessert(open),dessert(selected),candy2(selected),cookie(selected),chocolate(selected),cake(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/cake/0006.jpg,pie(selected),ice(selected),seasoning(open),seasoning(selected),drink(open),drink(selected),sweets(open),sweets(selected),dessert(open),dessert(selected),cake(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/cake/0034.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dessert/0043.jpg
+0
+7684
+1
+A2TCWEYMI1JHIG
+time: 00:00:21, clicks: 3, path: food(open),food(selected),grain(open),grain(selected),rice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/rice/0034.jpg
+1
+7685
+2
+
+time: 00:00:24, clicks: 1, path: stove(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/stove/0022.jpg
+1
+7686
+4
+A3T5E7K68QRMKC
+time: 00:01:32, clicks: 3, path: whole(open),fruit(open),food(open),beverage(open),nutriment(open),course(open),whole(open),fruit(open),fruit(selected),artifact(open),home_appliance(open),home_appliance(selected),kitchen_appliance(open),instrumentality(open),instrumentality(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/blender/0022.jpg
+1
+7687
+4
+
+time: 00:04:39, clicks: 72, path: food(open),whole(open),food(open),whole(open),whole(selected),artifact(open),artifact(selected),fruit(open),fruit(selected),fruit(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),food(open),food(selected),beverage(open),beverage(selected),milk(selected),alcohol(open),alcohol(selected),alcohol(selected),baked_goods(open),baked_goods(selected),water(selected),foodstuff(open),foodstuff(selected),nutriment(open),nutriment(selected),dish(open),dish(selected),whole(open),whole(selected),artifact(open),artifact(selected),food(open),food(selected),foodstuff(open),foodstuff(selected),concoction(open),concoction(selected),dairy_product(open),dairy_product(selected),dairy_product(selected),flavorer(open),flavorer(selected),nutriment(open),nutriment(selected),course(open),course(selected),dessert(open),dessert(selected),plate(selected),dish(open),dish(selected),water(selected),baked_goods(open),baked_goods(selected),beverage(open),beverage(selected),cocoa(selected),coffee(selected),milk(selected),pop(selected),tea(selected),fish(selected),foodstuff(open),concoction(open),concoction(selected),dairy_product(open),dairy_product(selected),flavorer(open),flavorer(selected),sweetening(open),sweetening(selected),vanilla(selected),grain(open),grain(selected),nutriment(open),nutriment(selected),course(open),course(selected),dessert(open),dessert(selected),dish(open),dish(selected),whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),implement(open),implement(selected),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),cooking_utensil(selected),tool(open),tool(selected),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),cooking_utensil(selected),tool(open),tool(selected),fork(selected),knife(selected),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),cooking_utensil(selected),pot(selected),pan(selected),pot(selected),blender(selected),kitchen_utensil(selected),container(open),container(selected),spoon(selected),vessel(open),vessel(selected),bottle(selected),vessel(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/jar/0033.jpg
+1
+7688
+3
+A1SAE2COMX5P8M
+time: 00:00:22, clicks: 1, path: food(open),batter(open),dough(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dough/0043.jpg
+1
+7689
+4
+
+time: 00:00:51, clicks: 6, path: food(open),food(selected),nutriment(open),nutriment(selected),nutriment(selected),whole(open),whole(selected),fruit(open),fruit(selected),citrus(open),citrus(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/lemon/0025.jpg
+1
+7690
+2
+A3IL6AMXMEUIVW
+time: 00:00:39, clicks: 2, path: jar(selected),bottle(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bottle/0047.jpg
+1
+7691
+1
+A1SAE2COMX5P8M
+time: 00:00:15, clicks: 1, path: utensil(open),cookware(open),silverware(open),cutlery(open),knife(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0042.jpg
+1
+7692
+4
+A1SAE2COMX5P8M
+time: 00:00:15, clicks: 1, path: food(open),foodstuff(open),dairy_product(open),cheese(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0025.jpg
+1
+7693
+1
+A3F128VOB46KDM
+time: 00:04:32, clicks: 17, path: container(open),container(selected),cup(selected),jar(selected),bottle(selected),appliance(open),appliance(selected),object(selected),object(open),object(selected),plate(selected),plate(selected),container(open),container(selected),food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),beer(selected),soda(selected),wine(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0019.jpg
+0
+7694
+2
+A1SAE2COMX5P8M
+time: 00:00:08, clicks: 1, path: banana(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/banana/0031.jpg
+1
+7695
+1
+A3IL6AMXMEUIVW
+time: 00:01:16, clicks: 18, path: container(open),container(selected),cup(selected),utensil(open),utensil(selected),silverware(open),silverware(selected),cookware(open),cookware(selected),pot2(selected),pan(selected),pot(selected),silverware(open),silverware(selected),cutlery(open),cutlery(selected),container(open),container(selected),bottle(selected),bowl(selected),food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),wine(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/wine/0010.jpg
+1
+7696
+4
+ARA1SVR85THFP
+time: 00:00:08, clicks: 1, path: food(open),meat(open),beef(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beef/0006.jpg
+1
+7697
+1
+ARA1SVR85THFP
+time: 00:00:11, clicks: 1, path: food(open),seasoning(open),salt(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/salt/0006.jpg
+1
+7698
+4
+A3IL6AMXMEUIVW
+time: 00:00:13, clicks: 2, path: food(open),food(selected),onion(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/onion/0015.jpg
+1
+7699
+3
+
+time: 00:01:38, clicks: 16, path: food(open),food(selected),seasoning(open),seasoning(selected),seasoning(selected),sweets(open),sweets(selected),honey(selected),container(open),bottle(selected),bowl(selected),food(open),food(selected),dairy(open),dairy(selected),sauce(selected),batter(open),batter(selected),dough(selected),meat(open),meat(selected),sweets(open),sweets(selected),sugar(open),sugar(selected),syrup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/syrup/0009.jpg
+1
+7700
+1
+A3F128VOB46KDM
+time: 00:00:51, clicks: 4, path: food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),smoothie(open),smoothie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/juice/0023.jpg
+1
+7701
+3
+ARA1SVR85THFP
+time: 00:00:28, clicks: 5, path: appliance(open),kitchen_appliance(open),mixer(open),mixer(selected),blender(selected),container(open),cup(selected),jar(selected),bowl(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0013.jpg
+1
+7702
+2
+
+time: 00:00:13, clicks: 1, path: ice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/ice/0006.jpg
+1
+7703
+4
+ARA1SVR85THFP
+time: 00:01:33, clicks: 6, path: food(open),nutriment(open),whole(open),fruit(open),artifact(open),food(open),foodstuff(open),foodstuff(selected),concoction(open),concoction(selected),flavorer(open),flavorer(selected),potato(selected),onion(selected),whole(open),fruit(open),citrus(open),food(open),foodstuff(open),concoction(open),dairy_product(open),flavorer(open),baked_goods(open),beverage(open),baked_goods(open),foodstuff(open),flavorer(open),grain(open),nutriment(open),course(open),dish(open),salad(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vegetable/0024.jpg
+0
+7704
+4
+A28OL634G5H2FC
+time: 00:00:06, clicks: 4, path: food(open),food(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),beer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0028.jpg
+1
+7705
+2
+A28OL634G5H2FC
+time: 00:00:12, clicks: 2, path: bowl(selected),soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0043.jpg
+1
+7706
+1
+A28OL634G5H2FC
+time: 00:00:24, clicks: 4, path: food(open),food(selected),meat(open),meat(selected),pork(open),pork(selected),bacon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bacon/0026.jpg
+1
+7707
+1
+A1SAE2COMX5P8M
+time: 00:06:42, clicks: 21, path: utensil(open),container(open),bowl(selected),food(open),batter(open),dough2(selected),seasoning(open),spice(open),pepper(selected),pepper(selected),container(open),utensil(open),container(open),blender(selected),bowl(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0022.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0014.jpg,container(open),blender(selected),cup(selected),food(open),dairy(open),milk(selected),batter(open),batter(selected),seasoning(open),spice(open),spice(selected),vanilla(selected),salt(selected),pasta(selected),pasta(selected),egg(selected),sauce2(selected),utensil(open),utensil(selected),utensil(open),utensil(selected),appliance(open),kitchen_appliance(open),kitchen_appliance(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/batter/0014.jpg
+0
+7708
+1
+A1SAE2COMX5P8M
+time: 00:00:10, clicks: 1, path: appliance(open),kitchen_appliance(open),kitchen_appliance(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/stove/0038.jpg
+1
+7709
+2
+AMI9PB4T57QGD
+time: 00:00:45, clicks: 5, path: water(selected),water(selected),water(selected),vanilla(selected),tea(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/tea/0027.jpg
+1
+7710
+4
+AMI9PB4T57QGD
+time: 00:00:16, clicks: 5, path: food(open),food(selected),foodstuff(open),foodstuff(selected),flavorer(open),flavorer(selected),sweetening(open),sweetening(selected),syrup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/syrup/0039.jpg
+1
+7711
+4
+A1SAE2COMX5P8M
+time: 00:01:36, clicks: 4, path: food(open),foodstuff(open),foodstuff(selected),juice(selected),juice(selected),whole(open),fruit(open),fruit(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fruit/0025.jpg
+1
+7712
+3
+ABMX8XUNPR3LP
+time: 00:00:20, clicks: 4, path: food(open),food(selected),sweets(open),sweets(selected),dessert(open),dessert(selected),pie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pie/0028.jpg
+1
+7713
+1
+AMI9PB4T57QGD
+time: 00:00:10, clicks: 3, path: appliance(open),appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),microwave(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0021.jpg
+1
+7714
+4
+ABMX8XUNPR3LP
+time: 00:00:38, clicks: 7, path: food(open),food(selected),beverage(open),beverage(selected),nutriment(open),nutriment(selected),whole(open),whole(selected),food(open),food(selected),foodstuff(open),foodstuff(selected),juice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/juice/0015.jpg
+1
+7715
+1
+ABMX8XUNPR3LP
+time: 00:00:14, clicks: 2, path: food(open),food(selected),soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0023.jpg
+1
+7716
+4
+
+time: 00:00:32, clicks: 4, path: whole(open),food(open),foodstuff(open),object(open),whole(open),whole(selected),artifact(open),artifact(selected),home_appliance(open),home_appliance(selected),kitchen_appliance(open),microwave(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0009.jpg
+1
+7717
+4
+
+time: 00:02:32, clicks: 11, path: food(open),baked_goods(open),whole(open),food(open),baked_goods(open),bread(selected),cookie(selected),foodstuff(open),concoction(open),dough(selected),batter(selected),dairy_product(open),flavorer(open),grain(open),whole(open),artifact(open),fruit(open),food(open),baked_goods(open),nutriment(open),candy(selected),dish(open),course(open),dessert(open),dessert(selected),dish(open),patty(selected),pizza(selected),course(open),plate(selected),dessert(open),ice(selected),dessert(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cake/0036.jpg
+0
+7718
+3
+AN8OQTL5KUHBM
+time: 00:00:06, clicks: 0, path: target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/garlic/0035.jpg
+0
+7719
+4
+AN8OQTL5KUHBM
+time: 00:00:26, clicks: 3, path: whole(open),artifact(open),home_appliance(open),home_appliance(selected),fruit(open),fruit(selected),banana(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bacon/0023.jpg
+0
+7720
+2
+A8SR6TBA7X9N
+time: 00:00:32, clicks: 1, path: bowl(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0039.jpg
+1
+7721
+3
+AN8OQTL5KUHBM
+time: 00:00:21, clicks: 4, path: utensil(open),utensil(selected),silverware(open),silverware(selected),cutlery(open),cutlery(selected),spoon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/spoon/0011.jpg
+1
+7722
+4
+AN8OQTL5KUHBM
+time: 00:00:24, clicks: 9, path: food(open),food(selected),foodstuff(open),foodstuff(selected),concoction(open),concoction(selected),concoction(selected),nutriment(open),nutriment(selected),course(open),course(selected),course(selected),dish(open),dish(selected),pasta(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pasta/0033.jpg
+1
+7723
+1
+AN8OQTL5KUHBM
+time: 00:00:22, clicks: 4, path: food(open),food(selected),pie2(selected),pie2(selected),pie2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pie/0003.jpg
+1
+7724
+4
+A8SR6TBA7X9N
+time: 00:02:54, clicks: 2, path: food(open),food(selected),baked_goods(open),baked_goods(selected),foodstuff(open),dairy_product(open),whole(open),food(open),foodstuff(open),flavorer(open),grain(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pasta/0002.jpg
+0
+7725
+2
+
+time: 00:01:18, clicks: 3, path: beef(selected),meat(selected),grill(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/grill/0010.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/grill/0013.jpg
+1
+7726
+1
+AN8OQTL5KUHBM
+time: 00:00:16, clicks: 2, path: food(open),food(selected),batter(open),batter(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/batter/0026.jpg
+1
+7727
+3
+AN8OQTL5KUHBM
+time: 00:00:10, clicks: 4, path: food(open),food(selected),produce(open),produce(selected),produce(selected),egg(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/egg/0036.jpg
+1
+7728
+1
+
+time: 00:01:01, clicks: 1, path: food(open),pasta(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pasta/0029.jpg
+1
+7729
+4
+AN8OQTL5KUHBM
+time: 00:00:29, clicks: 6, path: whole(open),whole(selected),artifact(open),artifact(selected),home_appliance(open),home_appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),oven(selected),stove(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/stove/0041.jpg
+1
+7730
+4
+A8SR6TBA7X9N
+time: 00:02:13, clicks: 1, path: food(open),object(open),food(open),foodstuff(open),whole(open),fruit(open),fruit(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fruit/0010.jpg
+1
+7731
+1
+A8SR6TBA7X9N
+time: 00:00:14, clicks: 1, path: food(open),flour2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/flour/0015.jpg
+1
+7732
+1
+
+time: 00:00:43, clicks: 12, path: food(open),food(selected),produce(open),produce(selected),vegetable(open),vegetable(selected),onion(selected),pot(selected),pot(selected),appliance(open),appliance(selected),appliance(selected),food(open),food(selected),seasoning(open),seasoning(selected),spice(open),spice(selected),garlic(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/garlic/0002.jpg
+1
+7733
+4
+
+time: 00:00:13, clicks: 6, path: whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),container(open),container(selected),vessel(open),vessel(selected),jar(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/jar/0014.jpg
+1
+7734
+1
+
+time: 00:00:18, clicks: 3, path: appliance(open),appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),stove(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/stove/0017.jpg
+1
+7735
+3
+
+time: 00:00:08, clicks: 4, path: utensil(open),utensil(selected),silverware(open),silverware(selected),cutlery(open),cutlery(selected),fork(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0036.jpg
+1
+7736
+4
+AN8OQTL5KUHBM
+time: 00:02:40, clicks: 19, path: food(open),food(selected),baked_goods(open),baked_goods(selected),cookie(selected),cookie(selected),pie(selected),baked_goods(selected),foodstuff(open),concoction(open),concoction(open),batter(selected),dough(selected),flavorer(open),sweetening(open),nutriment(open),course(open),dessert(open),dessert(selected),plate(selected),dish(open),dish(selected),whole(open),whole(selected),fruit(open),food(open),nutriment(open),candy(selected),dish(open),course(open),dessert(open),dessert(selected),foodstuff(open),concoction(open),batter(selected),dairy_product(open),grain(open),flavorer(open),sauce(selected),concoction(open),batter(selected),dough(selected),baked_goods(open),baked_goods(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cake/0030.jpg
+0
+7737
+4
+AN8OQTL5KUHBM
+time: 00:00:19, clicks: 1, path: food(open),baked_goods(open),foodstuff(open),concoction(open),nutriment(open),dish(open),pizza(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/pizza/0002.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pizza/0001.jpg
+1
+7738
+3
+AN8OQTL5KUHBM
+time: 00:00:10, clicks: 1, path: food(open),batter(open),dough(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dough/0042.jpg
+1
+7739
+1
+AN8OQTL5KUHBM
+time: 00:00:18, clicks: 1, path: food(open),seasoning(open),sweets(open),sugar(open),syrup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/syrup/0014.jpg
+1
+7740
+3
+AN8OQTL5KUHBM
+time: 00:00:08, clicks: 2, path: food(open),food(selected),meat(open),fish(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fish/0033.jpg
+1
+7741
+1
+AN8OQTL5KUHBM
+time: 00:01:26, clicks: 4, path: food(open),produce(open),vegetable(open),vegetable(selected),appliance(open),food(open),seasoning(open),seasoning(open),spice(open),garlic(selected),grain(open),produce(open),salad(selected),vegetable(open),vegetable(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vegetable/0007.jpg
+1
+7742
+4
+AN8OQTL5KUHBM
+time: 00:00:13, clicks: 6, path: food(open),food(selected),baked_goods(open),baked_goods(selected),baked_goods(selected),foodstuff(open),foodstuff(selected),concoction(open),concoction(selected),dough(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dough/0012.jpg
+1
+7743
+4
+AN8OQTL5KUHBM
+time: 00:00:44, clicks: 10, path: food(open),food(selected),meat(open),meat(selected),beef(selected),cut(open),cut(selected),cut(selected),cut(open),cut(selected),steak(selected),pork(selected),meat(selected),meat(open),meat(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/meat/0019.jpg
+1
+7744
+1
+AN8OQTL5KUHBM
+time: 00:00:13, clicks: 3, path: food(open),seasoning(open),seasoning(selected),spice(open),spice(selected),vanilla(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vanilla/0038.jpg
+1
+7745
+3
+AN8OQTL5KUHBM
+time: 00:01:10, clicks: 3, path: food(open),food(selected),ice(selected),produce(open),sweets(open),dessert(open),dessert(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0004.jpg
+0
+7746
+3
+AN8OQTL5KUHBM
+time: 00:00:09, clicks: 1, path: food(open),grain(open),corn(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/corn/0046.jpg
+1
+7747
+3
+AN8OQTL5KUHBM
+time: 00:00:58, clicks: 9, path: food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),soda(selected),smoothie(open),smoothie(selected),juice(selected),beverage(selected),drink(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0035.jpg
+1
+7748
+4
+AN8OQTL5KUHBM
+time: 00:01:10, clicks: 6, path: food(open),food(selected),nutriment(open),nutriment(selected),candy(selected),course(open),dessert(open),dessert(selected),dish(open),foodstuff(open),flavorer(open),sweetening(open),nutriment(open),nutriment(selected),foodstuff(open),foodstuff(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chocolate/0026.jpg
+0
+7749
+1
+AN8OQTL5KUHBM
+time: 00:01:07, clicks: 7, path: food(open),food(selected),dough(open),dough(selected),dough(selected),batter(open),sweets(open),dessert(open),dessert(selected),cake(selected),dessert(selected),dessert(open),dessert(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bread/0016.jpg
+0
+7750
+4
+AN8OQTL5KUHBM
+time: 00:00:17, clicks: 7, path: whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),container(open),vessel(open),implement(open),implement(selected),kitchen_utensil(open),cooking_utensil(open),pan(selected),pot(selected),pan(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pan/0027.jpg
+1
+7751
+2
+AX598SQFKGZDC
+time: 00:00:28, clicks: 1, path: object(open),pizza(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pizza/0023.jpg
+1
+7752
+1
+AN8OQTL5KUHBM
+time: 00:00:09, clicks: 6, path: plate(selected),food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),beer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0028.jpg
+1
+7753
+3
+AN8OQTL5KUHBM
+time: 00:00:07, clicks: 3, path: food(open),food(selected),dairy(open),dairy(selected),milk(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/milk/0009.jpg
+1
+7754
+1
+ADE0JZRL5UDHF
+time: 00:01:23, clicks: 7, path: plate(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0021.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0037.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0041.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0032.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0038.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0046.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0040.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0036.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0029.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0026.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0025.jpg,object(selected),object(open),object(selected),object(selected),object(open),object(selected),food(open),food(selected),sauce(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0037.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0039.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0012.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0041.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0001.jpg
+1
+7755
+4
+AX598SQFKGZDC
+time: 00:00:51, clicks: 2, path: food(open),foodstuff(open),concoction(open),batter(selected),whole(open),food(open),nutriment(open),dish(open),soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0012.jpg
+0
+7756
+1
+A18JW2TF74MQ3F
+time: 00:01:02, clicks: 0, path: target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soda/0028.jpg
+0
+7757
+1
+AN8OQTL5KUHBM
+time: 00:00:38, clicks: 5, path: food(open),food(selected),grill2(selected),barbecue2(selected),barbecue2(selected),dough(open),dough(selected),meat(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/food/0047.jpg
+0
+7758
+2
+ADE0JZRL5UDHF
+time: 00:00:19, clicks: 1, path: egg(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/egg/0035.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/egg/0044.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/egg/0035.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/egg/0012.jpg
+1
+7759
+4
+AX598SQFKGZDC
+time: undefined, clicks: 0, path: target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/freezer/0001.jpg
+0
+7760
+1
+AN8OQTL5KUHBM
+time: 00:00:11, clicks: 3, path: food(open),food(selected),meat(open),meat(selected),fish(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fish/0017.jpg
+1
+7761
+4
+ADE0JZRL5UDHF
+time: 00:00:24, clicks: 7, path: whole(open),whole(selected),fruit(open),fruit(selected),food(open),food(selected),nutriment(open),nutriment(selected),foodstuff(open),foodstuff(selected),flavorer(open),flavorer(selected),vanilla(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vanilla/0022.jpg
+1
+7762
+4
+AN8OQTL5KUHBM
+time: 00:00:13, clicks: 7, path: whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),implement(open),implement(selected),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),cooking_utensil(selected),pan(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pan/0018.jpg
+1
+7763
+4
+AX598SQFKGZDC
+time: 00:00:38, clicks: 1, path: food(open),foodstuff(open),foodstuff(open),nutriment(open),course(open),whole(open),fruit(open),apple(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/apple/0007.jpg
+1
+7764
+3
+AN8OQTL5KUHBM
+time: 00:00:08, clicks: 2, path: food(open),food(selected),pizza(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pizza/0029.jpg
+1
+7765
+4
+AN8OQTL5KUHBM
+time: 00:00:11, clicks: 4, path: food(open),food(selected),meat(open),meat(selected),cut(open),cut(selected),bacon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bacon/0049.jpg
+1
+7766
+1
+AN8OQTL5KUHBM
+time: 00:00:05, clicks: 2, path: food(open),food(selected),egg(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/egg/0007.jpg
+1
+7767
+1
+AX598SQFKGZDC
+time: 00:00:42, clicks: 2, path: object(open),container(open),cup(selected),utensil(open),appliance(open),kitchen_appliance(open),kitchen_appliance(selected),utensil(open),container(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/tea/0016.jpg
+0
+7768
+1
+AX598SQFKGZDC
+time: 00:01:24, clicks: 3, path: food(open),container(open),cup(selected),food(open),drink(open),beverage(open),beverage(selected),juice(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/juice/0009.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/juice/0010.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/juice/0007.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/juice/0009.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/juice/0007.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0010.jpg
+0
+7769
+1
+AX598SQFKGZDC
+time: undefined, clicks: 0, path: target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/rice/0028.jpg
+0
+7770
+1
+AX598SQFKGZDC
+time: 00:00:47, clicks: 1, path: food(open),salad2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/salad/0004.jpg
+1
+7771
+3
+A34930YXVQ8SUT
+time: 00:02:42, clicks: 3, path: container(open),container(selected),cup(selected),container(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0020.jpg
+0
+7772
+2
+A34930YXVQ8SUT
+time: 00:00:11, clicks: 1, path: apple(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/apple/0008.jpg
+1
+7773
+1
+A34930YXVQ8SUT
+time: 00:00:15, clicks: 4, path: food(open),food(selected),sweets(open),sweets(selected),dessert(open),dessert(selected),candy2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/candy/0022.jpg
+1
+7774
+2
+A1ANF3U25Z0TUI
+time: 00:00:38, clicks: 2, path: food(selected),food(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vanilla/0007.jpg
+0
+7775
+2
+A1ANF3U25Z0TUI
+time: 00:00:13, clicks: 1, path: dessert(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dessert/0021.jpg
+1
+7776
+4
+A34930YXVQ8SUT
+time: 00:01:34, clicks: 19, path: whole(open),whole(selected),whole(selected),food(open),food(selected),meat(open),meat(selected),cut(open),cut(selected),bacon(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/bacon/0041.jpg,foodstuff(open),foodstuff(selected),nutriment(open),nutriment(selected),nutriment(selected),whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),implement(open),implement(selected),container(open),container(selected),object(open),food(open),foodstuff(open),meat(open),cut(open),cut(selected),cut(selected),pork(selected),cut(open),cut(selected),bacon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bacon/0024.jpg
+1
+7777
+4
+A1ANF3U25Z0TUI
+time: 00:01:25, clicks: 7, path: food(open),food(selected),whole(open),whole(selected),fruit(open),fruit(selected),banana(selected),apple(selected),citrus(open),artifact(open),artifact(selected),fruit(open),fruit(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fruit/0021.jpg
+1
+7778
+3
+
+time: 00:00:51, clicks: 1, path: food(open),meat(open),pork(open),bacon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bacon/0012.jpg
+1
+7779
+1
+A1ANF3U25Z0TUI
+time: 00:00:27, clicks: 3, path: food(open),drink(open),drink(selected),beverage(open),beverage(selected),soda(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soda/0042.jpg
+1
+7780
+1
+A1ANF3U25Z0TUI
+time: 00:00:13, clicks: 3, path: utensil(open),utensil(selected),cookware(open),cookware(selected),pot2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pot/0020.jpg
+1
+7781
+2
+AL550TZQSY8TZ
+time: 00:00:30, clicks: 1, path: ice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/ice/0028.jpg
+1
+7782
+2
+A1ANF3U25Z0TUI
+time: 00:00:08, clicks: 1, path: candy(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/candy/0041.jpg
+1
+7783
+4
+AL550TZQSY8TZ
+time: 00:00:11, clicks: 1, path: whole(open),food(open),water(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/water/0045.jpg
+1
+7784
+4
+
+time: 00:05:45, clicks: 41, path: food(open),food(selected),food(selected),food(open),food(selected),baked_goods(open),baked_goods(selected),baked_goods(selected),baked_goods(open),baked_goods(selected),pie(selected),pie(selected),pie(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/pie/0004.jpg,cookie(selected),bread(selected),foodstuff(open),foodstuff(selected),concoction(open),concoction(selected),concoction(selected),dairy_product(open),dairy_product(selected),dairy_product(selected),flavorer(open),flavorer(selected),flavorer(selected),flavorer(open),flavorer(selected),baked_goods(open),baked_goods(selected),cookie(selected),beverage(open),beverage(selected),cocoa(selected),baked_goods(open),baked_goods(selected),pie(selected),baked_goods(selected),whole(open),whole(selected),artifact(open),artifact(selected),whole(selected),food(open),food(selected),foodstuff(open),foodstuff(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),cocoa(selected),cocoa(selected),cocoa(selected),nutriment(open),nutriment(selected),course(open),course(selected),dessert(open),dessert(selected),dessert(selected),dessert(open),dessert(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dessert/0002.jpg
+1
+7785
+1
+AL550TZQSY8TZ
+time: 00:00:17, clicks: 1, path: food(open),pie2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pie/0036.jpg
+1
+7786
+1
+AMO0IKL5URBGF
+time: 00:01:59, clicks: 11, path: food(open),sweets(open),dessert(open),cake(selected),pie(selected),cake(selected),sweets(selected),sweets(open),honey2(selected),sugar(open),sugar(selected),candy(open),candy(selected),syrup(selected),dessert(open),cookie(selected),chocolate(selected),cake(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dessert/0030.jpg
+0
+7787
+1
+AL550TZQSY8TZ
+time: 00:00:14, clicks: 1, path: appliance(open),kitchen_appliance(open),mixer(open),blender2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/blender/0033.jpg
+1
+7788
+4
+A1ANF3U25Z0TUI
+time: 00:01:33, clicks: 5, path: food(open),food(selected),meat(open),meat(selected),beef(selected),pork(selected),meat(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/beef/0021.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/meat/0035.jpg
+0
+7789
+1
+AMO0IKL5URBGF
+time: 00:00:27, clicks: 1, path: utensil(open),silverware(open),fork(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0012.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0035.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0043.jpg
+1
+7790
+4
+A1ANF3U25Z0TUI
+time: 00:00:15, clicks: 2, path: food(open),food(selected),onion(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/onion/0037.jpg
+1
+7791
+2
+A1PAGEZ1I5JWAB
+time: 00:00:12, clicks: 1, path: batter(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/batter/0018.jpg
+1
+7792
+4
+AMO0IKL5URBGF
+time: 00:00:39, clicks: 8, path: food(open),beverage(open),pop(selected),pop(selected),tea(selected),pop(selected),alcohol(open),alcohol(selected),beer(selected),beverage(selected),beverage(open),pop(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soda/0039.jpg
+0
+7793
+2
+A1ANF3U25Z0TUI
+time: 00:00:34, clicks: 1, path: knife(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0018.jpg
+1
+7794
+4
+AL550TZQSY8TZ
+time: 00:01:27, clicks: 2, path: food(open),nutriment(open),candy(selected),course(open),dish(open),whole(open),artifact(open),instrumentality(open),implement(open),tool(open),fruit(open),food(open),foodstuff(open),concoction(open),flavorer(open),vanilla(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vanilla/0010.jpg
+1
+7795
+3
+AMO0IKL5URBGF
+time: 00:00:15, clicks: 1, path: food(open),sweets(open),dessert(open),cake(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cake/0039.jpg
+1
+7796
+1
+A1PAGEZ1I5JWAB
+time: 00:00:23, clicks: 2, path: utensil(open),utensil(selected),silverware(open),silverware(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0016.jpg
+1
+7797
+4
+A1ANF3U25Z0TUI
+time: 00:00:32, clicks: 3, path: whole(open),whole(selected),food(open),whole(open),artifact(open),home_appliance(open),home_appliance(open),instrumentality(open),instrumentality(selected),implement(open),tool(open),knife(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0027.jpg
+1
+7798
+4
+A1PAGEZ1I5JWAB
+time: 00:00:22, clicks: 5, path: food(open),food(selected),whole(open),whole(selected),fruit(open),fruit(selected),citrus(open),citrus(selected),orange(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/orange/0034.jpg
+1
+7799
+3
+AL550TZQSY8TZ
+time: 00:00:24, clicks: 1, path: food(open),drink(open),beverage(open),alcohol(open),beer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0031.jpg
+1
+7800
+1
+A1ANF3U25Z0TUI
+time: 00:00:18, clicks: 4, path: food(open),food(selected),meat(open),meat(selected),beef(open),beef(selected),steak(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/steak/0042.jpg
+1
+7801
+4
+AMO0IKL5URBGF
+time: 00:00:39, clicks: 5, path: whole(open),artifact(open),home_appliance(open),kitchen_appliance(open),stove(selected),instrumentality(open),implement(open),tool(open),home_appliance(open),freezer(selected),kitchen_appliance(open),oven(selected),microwave(selected),stove(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/blender/0006.jpg
+0
+7802
+4
+AMO0IKL5URBGF
+time: 00:00:37, clicks: 2, path: food(open),foodstuff(open),baked_goods(open),whole(open),artifact(open),food(open),baked_goods(open),cookie(selected),pie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/candy/0028.jpg
+0
+7803
+1
+A1ANF3U25Z0TUI
+time: 00:00:29, clicks: 3, path: food(open),food(selected),meat(open),meat(selected),pork(open),pork(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pork/0007.jpg
+1
+7804
+1
+AL550TZQSY8TZ
+time: 00:00:32, clicks: 5, path: food(open),barbecue2(selected),barbecue2(selected),meat(open),beef(open),steak(selected),poultry(open),poultry(selected),barbecue(open),barbecue(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0040.jpg
+1
+7805
+4
+AMO0IKL5URBGF
+time: 00:00:19, clicks: 3, path: whole(open),artifact(open),instrumentality(open),implement(open),kitchen_utensil(open),blender(selected),cooking_utensil(open),cooking_utensil(selected),tool(open),fork(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0037.jpg
+1
+7806
+2
+AL550TZQSY8TZ
+time: 00:00:17, clicks: 1, path: milk(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/milk/0033.jpg
+1
+7807
+2
+A1ANF3U25Z0TUI
+time: 00:00:23, clicks: 1, path: orange(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/orange/0040.jpg
+1
+7808
+4
+A1ANF3U25Z0TUI
+time: 00:00:19, clicks: 7, path: food(open),food(selected),meat(open),meat(selected),cut(open),cut(selected),cut(selected),pork(selected),pork(selected),pork(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pork/0005.jpg
+1
+7809
+3
+A1ANF3U25Z0TUI
+time: 00:00:23, clicks: 3, path: plate(selected),food(open),food(selected),pasta(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pasta/0023.jpg
+1
+7810
+1
+A1ANF3U25Z0TUI
+time: 00:00:43, clicks: 3, path: food(open),food(selected),produce(open),dairy(open),dairy(selected),cheese(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0053.jpg
+1
+7811
+4
+A1ANF3U25Z0TUI
+time: 00:01:05, clicks: 3, path: food(open),food(selected),whole(open),whole(selected),fruit(open),fruit(selected),food(open),foodstuff(open),grain(open),flavorer(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pepper/0033.jpg
+0
+7812
+4
+AL550TZQSY8TZ
+time: 00:03:43, clicks: 20, path: food(open),water(selected),beverage(open),whole(open),artifact(open),fruit(open),food(open),beverage(open),water(selected),foodstuff(open),flavorer(open),dairy_product(open),concoction(open),nutriment(open),whole(open),artifact(open),artifact(open),instrumentality(open),implement(open),container(open),fruit(open),food(open),beverage(open),pop(selected),tea(selected),milk(selected),coffee(selected),cocoa(selected),food(open),water(selected),nutriment(open),nutriment(selected),course(open),course(selected),dish(open),dish(selected),foodstuff(open),foodstuff(selected),beverage(open),beverage(selected),tea(selected),alcohol(open),cup(selected),baked_goods(open),nutriment(open),foodstuff(open),flavorer(open),sweetening(open),sauce(selected),vanilla(selected),sauce(selected),flour(selected),grain(open),juice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/ice/0031.jpg
+0
+7813
+4
+A1ANF3U25Z0TUI
+time: 00:00:24, clicks: 7, path: whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),implement(open),implement(selected),kitchen_utensil(open),kitchen_utensil(selected),tool(open),tool(selected),fork(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0027.jpg
+1
+7814
+4
+AL550TZQSY8TZ
+time: 00:00:43, clicks: 1, path: food(open),foodstuff(open),whole(open),fruit(open),banana(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/banana/0023.jpg
+1
+7815
+3
+A1PAGEZ1I5JWAB
+time: 00:06:40, clicks: 24, path: food(open),food(selected),plate(selected),object(selected),object(open),object(selected),food(open),food(selected),produce(open),produce(selected),container(open),container(selected),plate(selected),food(open),food(selected),produce(open),produce(selected),fruit(open),fruit(selected),vegetable(open),vegetable(selected),object(selected),object(open),food(open),food(selected),produce(open),produce(selected),vegetable(open),vegetable(selected),grain(open),grain(selected),bread(selected),meat(open),fish(selected),drink(open),beverage(open),beverage(selected),utensil(open),appliance(open),food(open),dairy(open),milk(selected),cheese(selected),food(open),produce(open),vegetable(open),vegetable(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/food/0002.jpg
+1
+7816
+1
+A1ANF3U25Z0TUI
+time: 00:01:13, clicks: 4, path: food(open),food(selected),sauce(selected),seasoning(open),seasoning(selected),soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0020.jpg
+1
+7817
+2
+AL550TZQSY8TZ
+time: 00:00:20, clicks: 1, path: knife(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0027.jpg
+1
+7818
+4
+A3B2H4HGSP6JCF
+time: 00:01:16, clicks: 18, path: food(open),food(selected),food(selected),whole(open),whole(selected),whole(selected),object(selected),object(open),object(selected),food(open),food(selected),foodstuff(open),foodstuff(selected),foodstuff(selected),whole(open),whole(selected),artifact(open),artifact(selected),home_appliance(open),home_appliance(selected),home_appliance(selected),instrumentality(open),instrumentality(selected),implement(open),implement(selected),kitchen_utensil(open),kitchen_utensil(selected),cooking_utensil(open),cooking_utensil(selected),pan(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/pan/0029.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/pan/0037.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pan/0013.jpg
+1
+7819
+4
+A1PAGEZ1I5JWAB
+time: 00:00:29, clicks: 1, path: food(open),nutriment(open),foodstuff(open),flavorer(open),whole(open),fruit(open),citrus(open),lemon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/lemon/0038.jpg
+1
+7820
+1
+A1PAGEZ1I5JWAB
+time: 00:00:09, clicks: 2, path: appliance(open),kitchen_appliance(open),kitchen_appliance(selected),freezer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/freezer/0018.jpg
+1
+7821
+1
+AL550TZQSY8TZ
+time: 00:00:18, clicks: 1, path: food(open),grain(open),rice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/rice/0026.jpg
+1
+7822
+3
+A1ANF3U25Z0TUI
+time: 00:01:00, clicks: 3, path: food(open),food(selected),produce(open),produce(selected),fruit(open),fruit(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/fruit/0007.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fruit/0004.jpg
+1
+7823
+1
+A1PAGEZ1I5JWAB
+time: 00:00:39, clicks: 4, path: food(open),batter(open),dough2(selected),sauce(selected),dough(open),dough(selected),batter2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/batter/0005.jpg
+1
+7824
+3
+A3B2H4HGSP6JCF
+time: 00:00:31, clicks: 3, path: food(open),food(selected),dairy(open),dairy(selected),cheese(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0048.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0049.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0029.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0030.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0052.jpg
+1
+7825
+4
+A1ANF3U25Z0TUI
+time: 00:00:35, clicks: 3, path: food(open),food(open),food(selected),baked_goods(open),baked_goods(selected),pie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pie/0011.jpg
+1
+7826
+3
+A1PAGEZ1I5JWAB
+time: 00:00:39, clicks: 3, path: food(open),sweets(open),dessert(open),dessert(selected),candy(open),candy(selected),dessert(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/candy/0028.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/candy/0029.jpg
+1
+7827
+4
+AL550TZQSY8TZ
+time: 00:02:07, clicks: 18, path: whole(open),artifact(open),home_appliance(open),instrumentality(open),implement(open),kitchen_utensil(open),cooking_utensil(open),tool(open),fork(selected),knife(selected),kitchen_utensil(open),cooking_utensil(open),cooking_utensil(selected),home_appliance(open),home_appliance(selected),food(open),nutriment(open),dish(open),dish(open),course(open),course(selected),plate(selected),dessert(open),dessert(selected),whole(open),whole(selected),artifact(open),artifact(selected),grill(selected),home_appliance(open),home_appliance(selected),freezer(selected),kitchen_appliance(open),kitchen_appliance(selected),microwave(selected),oven(selected),stove(selected),instrumentality(open),container(open),container(selected),spoon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/spoon/0033.jpg
+1
+7828
+2
+
+time: 00:00:37, clicks: 0, path: target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/wine/0044.jpg
+0
+7829
+1
+A3B2H4HGSP6JCF
+time: 00:01:37, clicks: 5, path: food(open),food(selected),meat(open),meat(selected),beef(open),beef(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/beef/0003.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/steak/0023.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/steak/0012.jpg,steak(selected),meat(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/grill/0011.jpg
+1
+7830
+4
+A1PAGEZ1I5JWAB
+time: 00:01:46, clicks: 10, path: food(open),baked_goods(open),foodstuff(open),concoction(open),nutriment(open),dish(open),course(open),dessert(open),dessert(selected),plate(selected),dish(open),dish(selected),soup(selected),whole(open),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),container(open),container(selected),food(open),baked_goods(open),pie(selected),cookie(selected),foodstuff(open),dairy_product(open),flavorer(open),sauce(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0011.jpg
+1
+7831
+1
+A1ANF3U25Z0TUI
+time: 00:01:43, clicks: 14, path: food(open),food(selected),barbecue2(selected),barbecue2(selected),barbecue2(selected),meat(open),meat(selected),poultry(open),poultry(selected),chicken2(selected),barbecue(open),barbecue(selected),chicken(selected),object(selected),object(open),appliance(open),appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),stove(selected),oven(open),oven(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/oven/0005.jpg
+1
+7832
+4
+A1PAGEZ1I5JWAB
+time: 00:00:20, clicks: 2, path: food(open),nutriment(open),nutriment(open),dish(open),pizza(selected),salad(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/salad/0016.jpg
+1
+7833
+1
+A1PAGEZ1I5JWAB
+time: 00:00:09, clicks: 1, path: food(open),meat(open),poultry(open),chicken2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0024.jpg
+1
+7834
+3
+A1ANF3U25Z0TUI
+time: 00:00:34, clicks: 2, path: food(open),food(selected),salad(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/salad/0012.jpg
+1
+7835
+3
+AL550TZQSY8TZ
+time: 00:01:11, clicks: 5, path: container(open),food(open),produce(open),vegetable(open),vegetable(selected),vegetable(open),plate(selected),container(open),bowl(selected),utensil(open),appliance(open),plate(selected),food(open),produce(open),vegetable(open),vegetable(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vegetable/0013.jpg
+1
+7836
+3
+A1PAGEZ1I5JWAB
+time: 00:00:21, clicks: 2, path: food(open),pasta(selected),grain(open),rice(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/rice/0037.jpg
+1
+7837
+4
+AL550TZQSY8TZ
+time: 00:00:25, clicks: 1, path: food(open),nutriment(open),baked_goods(open),foodstuff(open),flour(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/flour/0020.jpg
+1
+7838
+4
+A1ANF3U25Z0TUI
+time: 00:00:46, clicks: 5, path: whole(open),whole(selected),artifact(open),artifact(selected),home_appliance(open),home_appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),oven(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/oven/0018.jpg
+1
+7839
+1
+AL550TZQSY8TZ
+time: 00:00:15, clicks: 1, path: food(open),sweets(open),dessert(open),cookie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cookie/0019.jpg
+1
+7840
+4
+A1PAGEZ1I5JWAB
+time: 00:02:29, clicks: 5, path: whole(open),food(open),foodstuff(open),whole(open),food(open),nutriment(open),course(open),dish(open),salad(selected),course(open),plate(selected),baked_goods(open),beverage(open),whole(open),artifact(open),instrumentality(open),implement(open),container(open),container(open),vessel(open),vessel(selected),food(open),water(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/food/0030.jpg
+1
+7841
+2
+A26XN1TM6CV01T
+time: 00:00:12, clicks: 1, path: sauce(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0006.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0005.jpg
+1
+7842
+2
+A1PAGEZ1I5JWAB
+time: 00:00:45, clicks: 3, path: object(selected),object(open),beef(selected),salad(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/salad/0022.jpg
+1
+7843
+1
+A26XN1TM6CV01T
+time: 00:01:03, clicks: 2, path: food(open),food(selected),food(open),sweets(open),produce(open),fruit(open),fruit(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fruit/0017.jpg
+1
+7844
+1
+AL550TZQSY8TZ
+time: 00:03:32, clicks: 16, path: food(open),meat(open),pork(open),beef(open),steak(selected),beef(selected),poultry(open),chicken2(selected),pork(open),pork(selected),pork(open),bacon(selected),seasoning(open),appliance(open),kitchen_appliance(open),plate(selected),food(open),barbecue2(selected),dough(open),batter(open),grill2(selected),meat(open),pork(open),fish(selected),poultry(open),poultry(selected),chicken2(selected),barbecue(open),barbecue(selected),chicken(selected),beef(open),beef(selected),steak(selected),produce(open),utensil(open),container(open),plate(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pork/0001.jpg
+0
+7845
+4
+A26XN1TM6CV01T
+time: 00:00:26, clicks: 1, path: food(open),foodstuff(open),concoction(open),batter(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/batter/0020.jpg
+1
+7846
+4
+
+time: 00:01:05, clicks: 5, path: food(open),food(selected),baked_goods(open),baked_goods(selected),foodstuff(open),foodstuff(selected),potato(selected),potato(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/potato/0007.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/potato/0033.jpg
+1
+7847
+2
+AL550TZQSY8TZ
+time: 00:00:11, clicks: 1, path: pizza(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pizza/0009.jpg
+1
+7848
+4
+AL550TZQSY8TZ
+time: 00:00:07, clicks: 1, path: food(open),water(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/water/0022.jpg
+1
+7849
+1
+AL550TZQSY8TZ
+time: 00:00:59, clicks: 4, path: food(open),batter(open),dough2(selected),sauce(selected),dough(open),dough(selected),batter(open),batter(selected),dough(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/batter/0003.jpg
+1
+7850
+3
+A12AJ7GJEHQKUQ
+time: 00:01:40, clicks: 8, path: food(open),food(selected),food(open),food(selected),batter(open),batter(selected),dough(selected),dough(selected),seasoning(open),seasoning(selected),grain(open),grain(selected),flour(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/flour/0004.jpg
+1
+7851
+1
+A1PAGEZ1I5JWAB
+time: 00:04:12, clicks: 9, path: food(open),seasoning(open),spice(open),sauce2(selected),drink(open),beverage(open),beverage(selected),container(open),bottle(selected),food(open),sauce(selected),sweets(open),dessert(open),honey2(selected),dessert(open),dessert(selected),produce(open),drink(open),beverage(open),alcohol(open),juice(selected),batter(open),dairy(open),dough(open),utensil(open),cookware(open),container(open),food(open),barbecue2(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/syrup/0014.jpg
+1
+7852
+4
+AL550TZQSY8TZ
+time: 00:00:31, clicks: 2, path: whole(open),artifact(open),food(open),whole(open),artifact(open),instrumentality(open),container(open),vessel(open),vessel(selected),bowl(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0017.jpg
+1
+7853
+2
+A1PAGEZ1I5JWAB
+time: 00:00:13, clicks: 1, path: egg(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/egg/0028.jpg
+1
+7854
+2
+AL550TZQSY8TZ
+time: 00:00:19, clicks: 1, path: honey(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/honey/0007.jpg
+1
+7855
+1
+AL550TZQSY8TZ
+time: 00:00:13, clicks: 1, path: food(open),dairy(open),milk(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/milk/0004.jpg
+1
+7856
+4
+A1PAGEZ1I5JWAB
+time: 00:00:31, clicks: 1, path: food(open),nutriment(open),course(open),course(open),dessert(open),dish(open),foodstuff(open),dairy_product(open),cheese(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0005.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cheese/0049.jpg
+1
+7857
+1
+A1PAGEZ1I5JWAB
+time: 00:00:14, clicks: 1, path: food(open),sweets(open),dessert(open),pie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pie/0026.jpg
+1
+7858
+1
+A12AJ7GJEHQKUQ
+time: 00:00:43, clicks: 4, path: food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),coffee(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/coffee/0044.jpg
+1
+7859
+3
+A39Z1NOSE915R1
+time: 00:05:50, clicks: 23, path: food(open),food(selected),produce(open),produce(selected),vegetable(open),vegetable(selected),plate(selected),food(selected),food(open),food(selected),sweets(open),sweets(selected),produce(open),produce(selected),vegetable(open),vegetable(selected),fruit(open),fruit(selected),grill(selected),grain(open),grain(selected),seasoning(open),seasoning(selected),batter(open),batter(selected),sauce(selected),dairy(open),dairy(selected),sweets(open),sweets(selected),produce(open),produce(selected),pasta(selected),appliance(open),appliance(selected),utensil(open),utensil(selected),container(open),container(selected),food(open),food(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vegetable/0019.jpg
+1
+7860
+4
+A39Z1NOSE915R1
+time: 00:00:17, clicks: 3, path: food(open),food(selected),meat(open),meat(selected),beef(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beef/0028.jpg
+1
+7861
+1
+A39Z1NOSE915R1
+time: 00:00:16, clicks: 3, path: food(open),food(selected),produce(open),produce(selected),fruit(open),fruit(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/orange/0022.jpg
+1
+7862
+1
+
+time: 00:00:26, clicks: 3, path: food(open),food(selected),meat(open),meat(selected),meat(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/food/0030.jpg
+0
+7863
+3
+A3MPOA8ADGZKBC
+time: 00:00:36, clicks: 4, path: food(open),food(selected),sweets(open),sweets(selected),dessert(open),dessert(selected),cookie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cookie/0003.jpg
+1
+7864
+1
+A3MPOA8ADGZKBC
+time: 00:01:16, clicks: 11, path: container(open),container(selected),jar(selected),bottle(selected),cup(selected),pot(selected),bottle(selected),bowl(selected),jar(selected),cup(selected),jar(selected),container(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/jar/0033.jpg
+1
+7865
+4
+A3MPOA8ADGZKBC
+time: 00:00:51, clicks: 7, path: whole(open),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),container(open),container(selected),vessel(open),vessel(selected),bottle(selected),jar(selected),vessel(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bottle/0019.jpg
+1
+7866
+2
+A3MPOA8ADGZKBC
+time: 00:00:54, clicks: 3, path: salad(selected),object(open),apple(selected),fruit(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fruit/0023.jpg
+1
+7867
+4
+A3MPOA8ADGZKBC
+time: 00:00:25, clicks: 4, path: food(open),foodstuff(open),foodstuff(selected),flavorer(open),flavorer(selected),sweetening(open),sweetening(selected),honey(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/honey/0022.jpg
+1
+7868
+1
+A3MPOA8ADGZKBC
+time: 00:00:14, clicks: 4, path: food(open),food(selected),meat(open),meat(selected),poultry(open),poultry(selected),chicken2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0006.jpg
+1
+7869
+1
+A3MPOA8ADGZKBC
+time: 00:02:14, clicks: 13, path: food(open),food(selected),container(open),container(selected),cup(selected),food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),soda(selected),alcohol(open),alcohol(selected),soda(selected),juice(selected),smoothie(open),smoothie(selected),beverage(selected),drink(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0006.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0006.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0045.jpg
+1
+7870
+3
+A3MPOA8ADGZKBC
+time: 00:00:11, clicks: 4, path: food(open),food(selected),sweets(open),sweets(selected),dessert(open),dessert(selected),cake(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cake/0005.jpg
+1
+7871
+4
+A3MPOA8ADGZKBC
+time: 00:00:56, clicks: 8, path: food(open),food(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),beer(selected),nutriment(open),nutriment(selected),nutriment(selected),foodstuff(open),foodstuff(selected),flavorer(open),flavorer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/syrup/0019.jpg
+0
+7872
+4
+A3MPOA8ADGZKBC
+time: 00:00:21, clicks: 7, path: food(open),food(selected),beverage(open),beverage(selected),pop(selected),pop(selected),milk(selected),pop(selected),beverage(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soda/0004.jpg
+0
+7873
+4
+A3MPOA8ADGZKBC
+time: 00:00:22, clicks: 6, path: food(open),food(selected),foodstuff(open),foodstuff(selected),foodstuff(selected),nutriment(open),nutriment(selected),course(open),course(selected),dessert(open),dessert(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dessert/0016.jpg
+1
+7874
+2
+A3MPOA8ADGZKBC
+time: 00:00:18, clicks: 1, path: soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0036.jpg
+1
+7875
+4
+A3MPOA8ADGZKBC
+time: 00:00:09, clicks: 5, path: food(open),food(selected),foodstuff(open),foodstuff(selected),foodstuff(selected),baked_goods(open),baked_goods(selected),pie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pie/0034.jpg
+1
+7876
+1
+A12AJ7GJEHQKUQ
+time: 00:00:32, clicks: 2, path: food(open),food(selected),sweets(open),dessert(open),cookie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cookie/0006.jpg
+1
+7877
+1
+A3MPOA8ADGZKBC
+time: 00:00:29, clicks: 1, path: appliance(open),appliance(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/stove/0017.jpg
+1
+7878
+2
+
+time: 00:00:16, clicks: 1, path: butter(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/butter/0030.jpg
+1
+7879
+2
+A3MPOA8ADGZKBC
+time: 00:00:31, clicks: 1, path: chicken(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0023.jpg
+1
+7880
+4
+A3MPOA8ADGZKBC
+time: 00:00:15, clicks: 5, path: whole(open),whole(selected),artifact(open),artifact(selected),home_appliance(open),home_appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),microwave(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0031.jpg
+1
+7881
+1
+A3MPOA8ADGZKBC
+time: 00:00:22, clicks: 8, path: container(open),container(selected),plate(selected),food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),beverage(selected),beverage(open),beverage(selected),coffee(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/coffee/0037.jpg
+1
+7882
+1
+A3MPOA8ADGZKBC
+time: 00:00:08, clicks: 3, path: utensil(open),utensil(selected),silverware(open),silverware(selected),fork(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/fork/0014.jpg
+1
+7883
+1
+A12AJ7GJEHQKUQ
+time: 00:02:34, clicks: 10, path: food(open),produce(open),vegetable(open),produce(selected),produce(open),produce(selected),vegetable(open),salad(selected),salad(selected),salad2(selected),salad2(selected),vegetable(selected),food(selected),food(open),grain(open),grain(selected),corn(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/corn/0004.jpg
+1
+7884
+3
+A3MPOA8ADGZKBC
+time: 00:01:18, clicks: 5, path: food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),drink(selected),drink(open),drink(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/drink/0004.jpg
+1
+7885
+4
+A3MPOA8ADGZKBC
+time: 00:00:29, clicks: 4, path: food(open),food(selected),meat(open),meat(selected),beef(selected),cut(open),steak(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/steak/0030.jpg
+1
+7886
+2
+
+time: 00:00:16, clicks: 1, path: microwave(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/microwave/0033.jpg
+1
+7887
+3
+
+time: 00:00:42, clicks: 5, path: plate(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0047.jpg,https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0011.jpg,plate(selected),food(open),food(open),food(selected),dairy(open),dairy(selected),milk(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/dessert/0017.jpg
+0
+7888
+2
+A3MPOA8ADGZKBC
+time: 00:00:49, clicks: 4, path: pork(selected),beef(selected),freezer(selected),meat(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/meat/0031.jpg
+1
+7889
+1
+A3MPOA8ADGZKBC
+time: 00:00:08, clicks: 2, path: food(open),food(selected),soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0018.jpg
+1
+7890
+4
+A3MPOA8ADGZKBC
+time: 00:01:27, clicks: 14, path: food(open),food(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),wine(selected),alcohol(selected),beverage(selected),foodstuff(open),foodstuff(selected),concoction(open),concoction(selected),flavorer(open),flavorer(selected),sauce(selected),vanilla(selected),sweetening(open),sweetening(selected),nutriment(open),nutriment(selected),dish(open),dish(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bottle/0011.jpg
+0
+7891
+4
+A3MPOA8ADGZKBC
+time: 00:01:07, clicks: 2, path: food(open),food(selected),meat(open),meat(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/meat/0010.jpg
+1
+7892
+3
+
+time: 00:01:33, clicks: 5, path: container(open),container(selected),bowl(selected),food(open),food(selected),food(open),pasta(selected),soup(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0009.jpg
+1
+7893
+3
+
+time: 00:00:08, clicks: 2, path: container(open),container(selected),bowl(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0027.jpg
+1
+7894
+3
+
+time: 00:01:14, clicks: 10, path: food(open),salad(selected),container(open),appliance(open),plate(selected),food(open),dairy(open),dairy(selected),sauce(selected),dairy(selected),dairy(open),dairy(selected),milk(selected),cheese(selected),dairy(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/water/0005.jpg
+0
+7895
+1
+AOOE9LTQFK8RC
+time: 00:00:33, clicks: 2, path: food(open),food(selected),pizza(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pizza/0012.jpg
+1
+7896
+1
+
+time: 00:00:22, clicks: 1, path: food(open),drink(open),beverage(open),alcohol(open),wine(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/wine/0013.jpg
+1
+7897
+3
+A30YECS3Y91CCD
+time: 00:00:34, clicks: 3, path: food(open),food(selected),produce(open),produce(selected),vegetable(open),vegetable(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/potato/0024.jpg
+1
+7898
+2
+AYITK2UMF51F8
+time: 00:00:33, clicks: 1, path: object(open),vanilla(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vanilla/0003.jpg
+1
+7899
+3
+A1QT6V01M7Z2SX
+time: 00:00:46, clicks: 3, path: food(open),sweets(open),dessert(open),candy(open),candy(selected),chocolate(selected),candy(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/candy/0025.jpg
+1
+7900
+4
+A30YECS3Y91CCD
+time: 00:00:44, clicks: 11, path: food(open),food(selected),nutriment(open),nutriment(selected),course(open),course(selected),object(selected),object(open),object(selected),whole(open),whole(selected),artifact(open),artifact(selected),food(open),food(selected),foodstuff(open),foodstuff(selected),flavorer(open),flavorer(selected),salt(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/salt/0032.jpg
+1
+7901
+3
+AOOE9LTQFK8RC
+time: 00:01:27, clicks: 4, path: food(open),food(selected),drink(open),drink(selected),beverage(open),beverage(selected),alcohol(open),alcohol(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0046.jpg
+1
+7902
+4
+A1QT6V01M7Z2SX
+time: 00:00:37, clicks: 2, path: food(open),baked_goods(open),baked_goods(selected),bread(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bread/0002.jpg
+1
+7903
+1
+A30YECS3Y91CCD
+time: 00:00:18, clicks: 3, path: plate(selected),container(open),container(selected),jar(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/jar/0033.jpg
+1
+7904
+1
+A1QT6V01M7Z2SX
+time: 00:00:29, clicks: 1, path: food(open),drink(open),beverage(open),alcohol(open),beer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beer/0039.jpg
+1
+7905
+4
+AOOE9LTQFK8RC
+time: 00:01:08, clicks: 5, path: whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),container(open),container(selected),implement(open),implement(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pot/0025.jpg
+1
+7906
+4
+A1QT6V01M7Z2SX
+time: 00:00:18, clicks: 1, path: food(open),beverage(open),coffee(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/coffee/0028.jpg
+1
+7907
+1
+A1QT6V01M7Z2SX
+time: 00:00:21, clicks: 1, path: food(open),meat(open),poultry(open),chicken2(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0024.jpg
+1
+7908
+3
+A1QT6V01M7Z2SX
+time: 00:00:29, clicks: 1, path: food(open),sauce(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sauce/0015.jpg
+1
+7909
+4
+AYITK2UMF51F8
+time: 00:06:36, clicks: 35, path: food(open),foodstuff(open),nutriment(open),nutriment(selected),whole(open),fruit(open),citrus(open),orange(selected),lemon(selected),citrus(selected),banana(selected),apple(selected),fruit(selected),artifact(open),artifact(selected),food(open),foodstuff(open),concoction(open),concoction(selected),dairy_product(open),cheese(selected),concoction(open),grain(open),corn(selected),potato(selected),object(selected),object(open),food(open),foodstuff(open),dairy_product(open),dairy_product(selected),concoction(open),concoction(selected),foodstuff(selected),whole(open),fruit(open),fruit(selected),food(open),water(selected),onion(selected),nutriment(open),course(open),course(selected),dish(open),soup(selected),salad(selected),patty(selected),pasta(selected),course(open),course(selected),plate(selected),dessert(open),dessert(selected),candy(selected),dish(open),dish(selected),object(selected),object(open),food(open),baked_goods(open),bread(selected),cookie(selected),pie(selected),beverage(open),fish(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/food/0018.jpg
+1
+7910
+1
+AYITK2UMF51F8
+time: 00:00:46, clicks: 2, path: food(open),sweets(open),dough(open),dairy(open),sweets(open),sugar(open),candy(open),chocolate2(selected),dessert(open),cookie(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/cookie/0034.jpg
+1
+7911
+1
+A1D0FS9UZH2UI3
+time: undefined, clicks: 2, path: food(open),food(selected),sweets(open),sweets(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/sugar/0013.jpg
+1
+7912
+4
+A1D0FS9UZH2UI3
+time: 00:00:11, clicks: 1, path: food(open),beverage(open),tea(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/tea/0020.jpg
+1
+7913
+3
+
+time: 00:00:45, clicks: 3, path: food(open),sauce(selected),batter(open),batter(selected),meat(open),meat(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bacon/0010.jpg
+1
+7914
+2
+A1D0FS9UZH2UI3
+time: 00:03:20, clicks: 3, path: food(selected),vegetable(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vanilla/0004.jpg
+1
+7915
+3
+AA8E9YA88M4YV
+time: 00:03:01, clicks: 11, path: food(open),dairy(open),dairy(selected),meat(open),meat(selected),beef(open),beef(selected),seasoning(open),produce(open),produce(selected),object(open),food(open),dairy(open),sweets(open),grill(selected),drink(open),container(open),utensil(open),appliance(open),kitchen_appliance(open),food(open),food(selected),dairy(open),meat(open),meat(selected),seasoning(open),grain(open),bread(selected),produce(open),vegetable(open),fruit(open),grill(selected),container(open),utensil(open),appliance(open),plate(selected),food(open),dairy(open),dairy(selected),batter(open),meat(open),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/food/0044.jpg
+0
+7916
+3
+AA8E9YA88M4YV
+time: 00:00:51, clicks: 1, path: food(open),seasoning(open),dairy(open),grain(open),flour(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/flour/0026.jpg
+1
+7917
+4
+AA8E9YA88M4YV
+time: 00:01:22, clicks: 3, path: whole(open),food(open),baked_goods(open),foodstuff(open),flavorer(open),dairy_product(open),concoction(open),whole(open),food(open),baked_goods(open),beverage(open),foodstuff(open),dairy_product(open),concoction(open),dough(selected),batter(selected),meat(open),nutriment(open),dish(open),soup(selected),https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0019.jpg,target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/soup/0021.jpg
+1
+7918
+1
+AA8E9YA88M4YV
+time: 00:00:28, clicks: 1, path: food(open),meat(open),beef(open),beef(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/steak/0025.jpg
+1
+7919
+4
+
+time: 00:00:23, clicks: 6, path: food(open),food(selected),food(selected),food(open),food(selected),food(selected),whole(open),whole(selected),food(open),food(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bacon/0026.jpg
+0
+7920
+1
+A1D0FS9UZH2UI3
+time: 00:03:11, clicks: 10, path: appliance(open),kitchen_appliance(open),stove(selected),oven(open),range(open),range(selected),object(selected),object(open),object(selected),utensil(open),cookware(open),pot2(selected),silverware(open),silverware(selected),cutlery(open),cutlery(selected),appliance(open),appliance(selected),plate(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/grill/0019.jpg
+1
+7921
+3
+A1D0FS9UZH2UI3
+time: 00:00:06, clicks: 2, path: container(open),container(selected),bottle(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bottle/0023.jpg
+1
+7922
+4
+A1D0FS9UZH2UI3
+time: 00:00:14, clicks: 3, path: food(open),foodstuff(open),foodstuff(selected),flavorer(open),flavorer(selected),pepper(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pepper/0031.jpg
+1
+7923
+4
+A1D0FS9UZH2UI3
+time: 00:00:36, clicks: 8, path: object(selected),object(open),object(selected),whole(open),whole(selected),whole(open),whole(selected),artifact(open),grill(selected),home_appliance(open),home_appliance(selected),kitchen_appliance(open),kitchen_appliance(selected),oven(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/oven/0017.jpg
+1
+7924
+1
+A1D0FS9UZH2UI3
+time: 00:00:20, clicks: 3, path: food(open),food(selected),meat(open),meat(selected),beef(open),beef(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/beef/0025.jpg
+1
+7925
+2
+A1D0FS9UZH2UI3
+time: 00:00:27, clicks: 3, path: drink(selected),dessert(selected),milk(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/milk/0014.jpg
+1
+7926
+4
+A1D0FS9UZH2UI3
+time: 00:00:15, clicks: 3, path: food(open),food(selected),nutriment(open),whole(open),fruit(open),fruit(selected),apple(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/apple/0033.jpg
+1
+7927
+2
+A1D0FS9UZH2UI3
+time: 00:00:41, clicks: 3, path: object(selected),object(open),object(selected),freezer(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/freezer/0008.jpg
+1
+7928
+1
+A1D0FS9UZH2UI3
+time: 00:00:07, clicks: 2, path: container(open),container(selected),bowl(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/bowl/0040.jpg
+1
+7929
+3
+A1D0FS9UZH2UI3
+time: 00:00:11, clicks: 3, path: food(open),food(selected),meat(open),meat(selected),poultry(open),poultry(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0007.jpg
+1
+7930
+1
+
+time: 00:00:24, clicks: 3, path: utensil(open),utensil(selected),cookware(open),cookware(selected),silverware(open),silverware(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0042.jpg
+1
+7931
+2
+
+time: 00:01:19, clicks: 1, path: spoon(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/pasta/0029.jpg
+0
+7932
+4
+A2Z0XT09PCPD41
+time: 00:00:27, clicks: 4, path: whole(open),whole(selected),artifact(open),artifact(selected),instrumentality(open),instrumentality(selected),container(open),container(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/jar/0022.jpg
+1
+7933
+1
+A2Z0XT09PCPD41
+time: 00:00:17, clicks: 1, path: plate(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/plate/0016.jpg
+1
+7934
+4
+A1D0FS9UZH2UI3
+time: 00:04:42, clicks: 21, path: whole(open),artifact(open),artifact(selected),artifact(selected),fruit(open),fruit(selected),fruit(selected),food(open),food(selected),nutriment(open),nutriment(selected),nutriment(selected),foodstuff(open),whole(open),whole(selected),fruit(open),fruit(selected),artifact(open),artifact(selected),fruit(open),object(open),food(open),nutriment(open),course(open),dish(open),dish(open),onion(selected),foodstuff(open),foodstuff(selected),baked_goods(open),baked_goods(selected),beverage(open),beverage(selected),whole(open),whole(selected),food(open),food(selected),food(selected),food(open),food(selected),food(selected),whole(open),whole(selected),object(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/vegetable/0012.jpg
+1
+7935
+2
+A2Z0XT09PCPD41
+time: 00:00:17, clicks: 1, path: chicken(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/chicken/0020.jpg
+1
+7936
+1
+A1D0FS9UZH2UI3
+time: 00:00:10, clicks: 4, path: utensil(open),utensil(selected),silverware(open),silverware(selected),cutlery(open),cutlery(selected),knife(selected),target: https://homes.cs.washington.edu/~sunyuyin/images_new_names/knife/0017.jpg
 1
